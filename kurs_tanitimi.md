@@ -18,7 +18,7 @@
 + Öğrenciler kaçırdıkları dersleri ders tarihini izleyen __3__ gün içinde kendilerine verilecek şifre ile Vimeo üzerinden izleyebilirler.
 
 ## Kurs İçeriği
-+ [Kurs içeriğini buradan görebilirsiniz.](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama---26-Kasim-2024/blob/main/kurs_icerigi.md)
++ [Kurs içeriğini buradan görebilirsiniz.](https://github.com/CSD-1993/Online-Linux-Kernel-Isletim-Sistemleri-Tasarim-ve-Uygulama-Kursu-26-Nisan-2025/blob/main/kurs_icerigi.md)
 
 ## Kurs Süresi
 
@@ -36,9 +36,9 @@
 + Kurs __C ve Sistem Programcıları Derneği__ başkanı __Kaan ASLAN__ tarafından verilmektedir. __Kaan ASLAN__ sistem programlama ve yazılım eğitiminde Türkiye’deki en deneyimli eğitmenlerindendir. Çeşitli pozisyonlarda pek çok projede bulunmuş, 200’ün üzerinde kuruma eğitim ve danışmanlık hizmetleri vermiştir. 
 
 ## Kursa Kayıt
-+ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZEsc-GtqjMtHtXorrTSVfv4cJFRod4a01k8#/registration). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız. **Kursa kayıtta kullandığınız e-posta adresiniz ile Zoom'da kayıtlı e-posta adresinizin aynı olması gerekmektedir**. Kursa kesin kaydınız için sizinle iletişime geçeceğiz.
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZUucuytrTopEtJEi5_RgJJMCHp7BrlLUtTf#/registration). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız. **Kursa kayıtta kullandığınız e-posta adresiniz ile Zoom'da kayıtlı e-posta adresinizin aynı olması gerekmektedir**. Kursa kesin kaydınız için sizinle iletişime geçeceğiz.
 
 ## Sık Sorulan Sorular
-+ Online-Unix-Linux-Sistem-Programlama-Kursu hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama---26-Kasim-2024/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [C ve Sistem Programcıları Derneği ile iletişime geçebilir](http://www.csystem.org/) ya da __Kaan Aslan__'a bir [e-posta mesajı gönderebilirsiniz](mailto:aslank@csystem.org)
++ Online-Unix-Linux-Sistem-Programlama-Kursu hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Linux-Kernel-Isletim-Sistemleri-Tasarim-ve-Uygulama-Kursu-26-Nisan-2025/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [C ve Sistem Programcıları Derneği ile iletişime geçebilir](http://www.csystem.org/) ya da __Kaan Aslan__'a bir [e-posta mesajı gönderebilirsiniz](mailto:aslank@csystem.org)
 
 
