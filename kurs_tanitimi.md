@@ -11,7 +11,7 @@
 Bu kursa katılabilmeniz için yeterli düzeyde __C Programlama Dili__ bilgisine sahip olmanız gerekmektedir. 
 
 ## Format
-+ `Linux-Kernel İşletim Sistemleri Tasarım ve Uygulama Kursu. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
++ Linux-Kernel İşletim Sistemleri Tasarım ve Uygulama Kursu. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
