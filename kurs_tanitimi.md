@@ -8,25 +8,25 @@
 
 ## Ön Koşul
 
-Bu kursa katılabilmeniz için yeterli düzeyde `C Programlama Dili` bilgisine sahip olmanız gerekmektedir. 
+Bu kursa katılabilmeniz için yeterli düzeyde __C Programlama Dili__ bilgisine sahip olmanız gerekmektedir. 
 
 ## Format
 + `Linux-Kernel İşletim Sistemleri Tasarım ve Uygulama Kursu. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
-+ Öğrenciler kaçırdıkları dersleri ders tarihini izleyen `3` gün içinde kendilerine verilecek şifre ile `Vimeo` üzerinden izleyebilirler.
++ Öğrenciler kaçırdıkları dersleri ders tarihini izleyen __3__ gün içinde kendilerine verilecek şifre ile `Vimeo` üzerinden izleyebilirler.
 
 ## Kurs İçeriği
 [Kurs içeriğini buradan görebilirsiniz.](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama---26-Kasim-2024/blob/main/kurs_icerigi.md)
 
 ## Kurs Süresi
 
-Eğitim Süresi `320` Saattir.
+Eğitim Süresi __320__ Saattir.
 
 ## Ders Saatleri
 
-Dersler hafta sonu `Cumartesi – Pazar` günleri saat `10.00 – 14.00` saatleri arasında `4`’er saat olarak yapılacaktır.
+Dersler hafta sonu __Cumartesi – Pazar__ günleri saat __10.00 – 14.00__ saatleri arasında __4__’er saat olarak yapılacaktır.
 
 ## Kurs Ücreti
 Kursumuzun toplam ücreti __KDV dahil 64.000 TL__'dir (Peşin ödemede __57.500 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 58.000 TL__'dir (Peşin ödemede __52.000 TL__ ’dir). Kurs ücreti peşin ya da __4 taksit__ olarak ödenebilir.
