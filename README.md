@@ -10,7 +10,7 @@
 +  Kursumuzun toplam ücreti __KDV dahil 64.000 TL__'dir (Peşin ödemede __57.500 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 58.000 TL__'dir (Peşin ödemede __52.000 TL__ ’dir). Kurs ücreti peşin ya da __4 taksit__ olarak ödenebilir.
 
 ## Kursla ilgili bağlantılar
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama---26-Kasim-2024/blob/main/kurs_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama---26-Kasim-2024/blob/main/kurs_icerigi.md)
-+ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama---26-Kasim-2024/blob/main/sss.md)
-+ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZEsc-GtqjMtHtXorrTSVfv4cJFRod4a01k8#/registration)
++ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Linux-Kernel-Isletim-Sistemleri-Tasarim-ve-Uygulama-Kursu-26-Nisan-2025/blob/main/kurs_tanitimi.md)
++ [Kurs İçeriği](https://github.com/CSD-1993/Online-Linux-Kernel-Isletim-Sistemleri-Tasarim-ve-Uygulama-Kursu-26-Nisan-2025/blob/main/kurs_icerigi.md)
++ [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Linux-Kernel-Isletim-Sistemleri-Tasarim-ve-Uygulama-Kursu-26-Nisan-2025/blob/main/sss.md)
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZUucuytrTopEtJEi5_RgJJMCHp7BrlLUtTf#/registration)
