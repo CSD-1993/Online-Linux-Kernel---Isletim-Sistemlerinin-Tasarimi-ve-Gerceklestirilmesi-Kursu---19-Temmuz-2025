@@ -15,7 +15,7 @@ Bu kursa katılabilmeniz için yeterli düzeyde __C Programlama Dili__ bilgisine
 
 + Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
-+ Öğrenciler kaçırdıkları dersleri ders tarihini izleyen __3__ gün içinde kendilerine verilecek şifre ile `Vimeo` üzerinden izleyebilirler.
++ Öğrenciler kaçırdıkları dersleri ders tarihini izleyen __3__ gün içinde kendilerine verilecek şifre ile Vimeo üzerinden izleyebilirler.
 
 ## Kurs İçeriği
 [Kurs içeriğini buradan görebilirsiniz.](https://github.com/CSD-1993/Online-Unix-Linux-Sistem-Programlama---26-Kasim-2024/blob/main/kurs_icerigi.md)
