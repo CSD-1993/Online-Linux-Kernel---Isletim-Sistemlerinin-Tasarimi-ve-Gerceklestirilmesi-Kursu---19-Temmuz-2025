@@ -2,7 +2,7 @@
 
 + Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından Sistem Bilgisayar işbirliği ile düzenlenmektedir. Kurs __26 Nisan 2025__ tarihinde başlayacaktır.
 
-+ `Bu kurs Linux kernel tasarımı ve analizine ilişkin ileri düzey bir kurstur. Linux kernel kodları üzerinde geliştirme ve değiştirme yapmayı hedefleyen ve Linux sistemlerinde aygıt sürücüler yazmak isteyen sistem programcılarına yöneliktir. CSD İletim Sistemi Geliştirme Projesi’ne katılmak isteyen programcılar için de temel oluşturma amacındadır.
++ Bu kurs Linux kernel tasarımı ve analizine ilişkin ileri düzey bir kurstur. Linux kernel kodları üzerinde geliştirme ve değiştirme yapmayı hedefleyen ve Linux sistemlerinde aygıt sürücüler yazmak isteyen sistem programcılarına yöneliktir. CSD İletim Sistemi Geliştirme Projesi’ne katılmak isteyen programcılar için de temel oluşturma amacındadır.
 
 + Kurs yüzeysel değil ayrıntılıdır. 
 
