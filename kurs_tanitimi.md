@@ -1,6 +1,6 @@
 # Online Linux-Kernel İşletim Sistemleri Tasarım ve Uygulama Kursu Genel Tanıtım
 
-+ Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından Sistem Bilgisayar işbirliği ile düzenlenmektedir. Kurs __26 Nisan 2025__ tarihinde başlayacaktır.
++ Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından Sistem Bilgisayar işbirliği ile düzenlenmektedir. Kurs __19 Nisan 2025__ tarihinde başlayacaktır.
 
 + Bu kurs Linux kernel tasarımı ve analizine ilişkin ileri düzey bir kurstur. Linux kernel kodları üzerinde geliştirme ve değiştirme yapmayı hedefleyen ve Linux sistemlerinde aygıt sürücüler yazmak isteyen sistem programcılarına yöneliktir. CSD İletim Sistemi Geliştirme Projesi’ne katılmak isteyen programcılar için de temel oluşturma amacındadır.
 
@@ -22,15 +22,14 @@
 
 ## Kurs Süresi
 
-+ Eğitim Süresi __320__ Saattir.
++ Eğitim Süresi __360__ Saattir.
 
 ## Ders Saatleri
 
-+ Dersler hafta sonu __Cumartesi – Pazar__ günleri saat __10.00 – 14.00__ saatleri arasında __4__’er saat olarak yapılacaktır.
++ Dersler hafta sonu __Cumartesi – Pazar__ günleri saat __11.00 – 15.00__ saatleri arasında __4__’er saat olarak yapılacaktır.
 
 ## Kurs Ücreti
-+ Kursumuzun toplam ücreti __KDV dahil 64.000 TL__'dir (Peşin ödemede __57.500 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 58.000 TL__'dir (Peşin ödemede __52.000 TL__ ’dir). Kurs ücreti peşin ya da __4 taksit__ olarak ödenebilir.
-
++  Kursumuzun toplam ücreti __KDV dahil 72.000 TL__'dir (Peşin ödemede __64.000 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 64.000 TL__'dir (Peşin ödemede __58.000 TL__ ’dir). Kurs ücreti peşin ya da __4 taksit__ olarak ödenebilir.
 ## Eğitmen
 
 + Kurs __C ve Sistem Programcıları Derneği__ başkanı __Kaan ASLAN__ tarafından verilmektedir. __Kaan ASLAN__ sistem programlama ve yazılım eğitiminde Türkiye’deki en deneyimli eğitmenlerindendir. Çeşitli pozisyonlarda pek çok projede bulunmuş, 200’ün üzerinde kuruma eğitim ve danışmanlık hizmetleri vermiştir. 
