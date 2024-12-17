@@ -11,8 +11,8 @@ Evet. Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisa
 ### Kaçırdığım dersler olursa nasıl telafi edebilirim?
 Kesin kayıt yaptıran tüm öğrencilerimiz yapılan dersin kaydını ileteceğimiz VIMEO bağlantısı üzerinden izleyebilirler.
 
-### 320 saatlik bir kurs süresi çok uzun değil mi?
-Eğitim içeriği göz önüne alındığında __320__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
+### 360 saatlik bir kurs süresi çok uzun değil mi?
+Eğitim içeriği göz önüne alındığında __360__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
 Tabi ki. 
