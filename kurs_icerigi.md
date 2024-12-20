@@ -1,4 +1,4 @@
-# Online Linux Kernel İşletim Sistemleri Tasarım ve Uygulama Kurs İçeriği (360 Saat)
+# Online Linux Kernel İşletim Sistemleri Tasarım ve Uygulama (360 Saat)
 
 
 ## Kurs konularından bazıları aşağıdadır:
