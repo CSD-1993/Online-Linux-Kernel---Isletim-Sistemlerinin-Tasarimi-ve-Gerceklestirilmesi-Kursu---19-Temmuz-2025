@@ -1,4 +1,4 @@
-# Online Unix-Kernel İşletim Sistemleri Tasarım ve Uygulama Kursu– Sık Sorulan Sorular
+# Online Unix-Kernel - Linux İşletim Sisteminin Tasarımı ve Gerçekleştirimi Kursu– Sık Sorulan Sorular
 
 Aşağıda __Kaan Aslan__ tarafından verilen __Online Unix-Kernel İşletim Sistemleri Tasarım ve Uygulama Kursu__ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
