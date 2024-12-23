@@ -1,4 +1,4 @@
-# Online Linux-Kernel İşletim Sistemleri Tasarım ve Uygulama Kursu Genel Tanıtım
+# Online Linux-Kernel Linux İşletim Sisteminin Tasarımı ve Gerçekleştirimi Kursu Genel Tanıtım
 
 + Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından Sistem Bilgisayar işbirliği ile düzenlenmektedir. Kurs __19 Nisan 2025__ tarihinde başlayacaktır.
 
@@ -11,7 +11,7 @@
 + Bu kursa katılabilmeniz için yeterli düzeyde __C Programlama Dili__ bilgisine sahip olmanız gerekmektedir. 
 
 ## Format
-+ Linux-Kernel İşletim Sistemleri Tasarım ve Uygulama Kursu. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
++ Linux-Kernel Linux İşletim Sisteminin Tasarımı ve Gerçekleştirimi Kursu. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
 + Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
 
@@ -38,6 +38,6 @@
 + [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZUucuytrTopEtJEi5_RgJJMCHp7BrlLUtTf#/registration). Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız. **Kursa kayıtta kullandığınız e-posta adresiniz ile Zoom'da kayıtlı e-posta adresinizin aynı olması gerekmektedir**. Kursa kesin kaydınız için sizinle iletişime geçeceğiz.
 
 ## Sık Sorulan Sorular
-+ Online-Unix-Linux-Sistem-Programlama-Kursu hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Linux-Kernel-Isletim-Sistemleri-Tasarim-ve-Uygulama-Kursu-26-Nisan-2025/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [C ve Sistem Programcıları Derneği ile iletişime geçebilir](http://www.csystem.org/) ya da __Kaan Aslan__'a bir [e-posta mesajı gönderebilirsiniz](mailto:aslank@csystem.org)
++ Linux-Kernel Linux İşletim Sisteminin Tasarımı ve Gerçekleştirimi-Kursu hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Linux-Kernel-Isletim-Sistemleri-Tasarim-ve-Uygulama-Kursu-26-Nisan-2025/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [C ve Sistem Programcıları Derneği ile iletişime geçebilir](http://www.csystem.org/) ya da __Kaan Aslan__'a bir [e-posta mesajı gönderebilirsiniz](mailto:aslank@csystem.org)
 
 
