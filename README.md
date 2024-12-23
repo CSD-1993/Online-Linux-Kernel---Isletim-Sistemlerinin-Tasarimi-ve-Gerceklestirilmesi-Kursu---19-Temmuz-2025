@@ -1,4 +1,4 @@
-# Online-Linux-Kernel-Linux Isletim-Sisteminin-Tasarımı-ve-Gerçekleştirilmesi-Kursu-19-Nisan-2025
+# Online-Linux-Kernel-Linux Isletim-Sisteminin-Tasarımı-ve-Gerçekleştirimi-Kursu-19-Nisan-2025
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
