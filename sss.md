@@ -32,7 +32,7 @@ Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebi
 ## Yeterli Derecede C bilmiyorum. Kursa katılmam uygun olur mu?
 Eğer __C Programalam Dilini__ yeterli derecede bilmiyorsanız yine de kursa katılabilirsiniz. Ancak bu durum kurstan alacağınız verimi __%40__ oranında düşürebilecektir.
 
-### Daha önce C ve Sistem Programcıları Derneğinde Unix-Kernel - Linux İşletim Sisteminin Tasarımı ve Gerçekleştirimi Kursukursuna katılmıştım. Bu kursa tekrar amaçlı ücret ödemeden katılabilir miyim?
+### Daha önce C ve Sistem Programcıları Derneğinde Unix-Kernel - Linux İşletim Sisteminin Tasarımı ve Gerçekleştirimi kursuna katılmıştım. Bu kursa tekrar amaçlı ücret ödemeden katılabilir miyim?
 Hayır. Ancak __C ve Sistem Programcıları Derneğinde__ düzenlenmekte olan örgün kurslara tekrar amaçlı katılabilirsiniz.
 
 ### Kurs bitiminde sertifika alabilecek miyim?
