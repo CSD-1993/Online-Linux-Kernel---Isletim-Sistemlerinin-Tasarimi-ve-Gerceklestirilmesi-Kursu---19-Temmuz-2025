@@ -1,6 +1,6 @@
-# Online Unix-Kernel - Linux İşletim Sisteminin Tasarımı ve Gerçekleştirimi Kursu– Sık Sorulan Sorular
+# Online Linux-Kernel -İşletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi Kursu– Sık Sorulan Sorular
 
-Aşağıda __Kaan Aslan__ tarafından verilen __Online Unix-Kernel - Linux İşletim Sisteminin Tasarımı ve Gerçekleştirimi Kursu__ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
+Aşağıda __Kaan Aslan__ tarafından verilen __Online Linux-Kernel -İşletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi Kursu__ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
 #### Kurs programını online olarak takip etmem yani derslere fiziksel olarak katılmamam eğitimden alacağım verimi düşürür mü?
 Hayır. __C ve Sistem Programcıları Derneği__ olarak düzenlediğimiz online kursların bir dezavantaj oluşturmadığını görüyoruz. Kişiden kişiye değişebilmekle birlikte, öğrencinin eğitimi ev ya da çalışma ortamında daha rahat ve konforlu bir şekilde izlemesi genel olarak verimi arttırıyor. Ayrıca eğitime fiziksel olarak katılmanız durumunda, büyük kentlerdeki trafik koşulları düşünüldüğünde ulaşım için harcayacağınız süreden tasarruf etmiş oluyorsunuz.
@@ -32,7 +32,7 @@ Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebi
 ## Yeterli Derecede C bilmiyorum. Kursa katılmam uygun olur mu?
 Eğer __C Programalam Dilini__ yeterli derecede bilmiyorsanız yine de kursa katılabilirsiniz. Ancak bu durum kurstan alacağınız verimi __%40__ oranında düşürebilecektir.
 
-### Daha önce C ve Sistem Programcıları Derneğinde Unix-Kernel - Linux İşletim Sisteminin Tasarımı ve Gerçekleştirimi kursuna katılmıştım. Bu kursa tekrar amaçlı ücret ödemeden katılabilir miyim?
+### Daha önce C ve Sistem Programcıları Derneğinde Linux-Kernel - İşletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi kursuna katılmıştım. Bu kursa tekrar amaçlı ücret ödemeden katılabilir miyim?
 Hayır. Ancak __C ve Sistem Programcıları Derneğinde__ düzenlenmekte olan örgün kurslara tekrar amaçlı katılabilirsiniz.
 
 ### Kurs bitiminde sertifika alabilecek miyim?
