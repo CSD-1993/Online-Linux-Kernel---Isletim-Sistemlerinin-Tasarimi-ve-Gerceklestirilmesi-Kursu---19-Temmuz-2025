@@ -1,4 +1,4 @@
-# Online Linux Kernel Linux İşletim Sisteminin Tasarımı ve Gerçekleştirimi (360 Saat)
+# Online Linux Kernel İşletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi (360 Saat)
 
 
 ## Kurs konularından bazıları aşağıdadır:
