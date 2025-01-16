@@ -9,8 +9,8 @@
 ## Ön Koşul
 
 + Bu kursumuza katılacak adatylar için ön koşullarımız şunlardır:
--- __C Programlama Dilini__ iyi bir biçimde biliyor olmak ve bu dili kullanarak uygulamaları çalışmalar yapmış olmak
--- __Veri yapıları ve Algoritmalar__ konusunda temel bilgilere sahip olmak.
+  - __C Programlama Dilini__ iyi bir biçimde biliyor olmak ve bu dili kullanarak uygulamaları çalışmalar yapmış olmak
+  -  __Veri yapıları ve Algoritmalar__ konusunda temel bilgilere sahip olmak.
 
 Kursumuzun bazı bölümlerinde Intel x86 ya da ARM mikroişlemcilerinin sembolik makine dilleri kullanılarak yazılmış kodlar üzerinde de bazı gözden geçirmeler yapılmaktadır. Ancak bu işlemcilerin sembolik makine dillerinimn bilinmesi bir ön koşul oluşturmamaktadır. Derneğimizden aşağıdaki kursları almış olanlar kurs için ideal öğrenci adayı durumundadır:
 
