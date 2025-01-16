@@ -2,7 +2,7 @@
 
 + Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından Sistem Bilgisayar işbirliği ile düzenlenmektedir. Kurs __19 Nisan 2025__ tarihinde başlayacaktır.
 
-+ Bu kurs Linux çekirdeğinin tasarımı ve gerçekleştirilmesine ilişkin ileri düzey bir kurstur. Linux'un çekirdek kodları üzerinde geliştirme ve değiştirme yapmayı hedefleyen, işletim sistemlerinin tasarımı üzerinde uzmanlaşmak isteyen ve gerçekleştirimleri üzerinde beceri sağlamak isteyen  C ve sistem programcılarına yönelik olarak hazırlanmıştır. Kurs içerisinde işletim sistemlerinin çeşitli alt sistemleri ayrıntılarıyla ele alınmakta ve Linux çekirdeği üzerinde bu alt sistemlerin gerçekleştirimleri üzerinde durulmaktadır.
++ Bu kurs Linux çekirdeğinin tasarımı ve gerçekleştirilmesine ilişkin ileri düzey bir kurstur. Linux'un çekirdek kodları üzerinde geliştirme ve değiştirme yapmayı hedefleyen, işletim sistemlerinin tasarımı üzerinde bilgi sahibi olmak ve gerçekleştirimleri üzerinde beceri sağlamak isteyen  C ve sistem programcılarına yönelik olarak hazırlanmıştır. Kurs içerisinde işletim sistemlerinin çeşitli alt sistemleri ayrıntılarıyla ele alınmakta ve Linux çekirdeği üzerinde bu alt sistemlerin gerçekleştirimleri üzerinde durulmaktadır.
 
 + Kurs yüzeysel değil ayrıntılıdır. 
 
