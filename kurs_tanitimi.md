@@ -8,13 +8,14 @@
 
 ## Ön Koşul
 
-+ Bu kursa katılabilmeniz için yeterli düzeyde __C Programlama Dili__ ile veri yapıları ve algoritmalar konusunda temel bilgilere sahip olmanız gerekmektedir. Kursun bazı bölümlerinde 80x86 ya da ARM mikroişlemcilerinin sembolik makine dilleri kullanılarak yazılmış kodlar üzerinde de bazı gözden geçirmeler yapılmaktadır. Ancak bu işlemcilerin sembolik makine dillerinimn bilinmesi bir ön koşul oluşturmamaktadır. Derneğimizden aşağıdaki kursları almış olanlar kurs için en uygun öğrenci adayı durumundadır:
++ Bu kursa katılabilmeniz __C Programlama Dili__ üzerinde iyi derecede bilgi sahibi olmanız, uygulamalı çalışmalar yapmış olmanız, __veri yapıları ve algoritmalar konusunda temel bilgilere__ sahip olmanız gerekmektedir. Kursumuzun bazı bölümlerinde Intel x86 ya da ARM mikroişlemcilerinin sembolik makine dilleri kullanılarak yazılmış kodlar üzerinde de bazı gözden geçirmeler yapılmaktadır. Ancak bu işlemcilerin sembolik makine dillerinimn bilinmesi bir ön koşul oluşturmamaktadır. Derneğimizden aşağıdaki kursları almış olanlar kurs için ideal öğrenci adayı durumundadır:
 
 - C Programlama Dili
 - Sistem Programlama ve İleri C Uygulamaları - 1
 - UNIX/Linux Sistem Programlama
+- 80x86 ve ARM Sembolik Makine Dilleri
 
-Her ne kadar yukarıdaki kurs konuları üzerindeb bilgi sahibi olan kişiler ideal öğrenci adayımız olsa da C Programlama Dili ön koşulunu sağlayan adaylar da kursumuza katılabilirlerç
+Her ne kadar yukarıdaki kurs konuları üzerinde bilgi sahibi olan kişiler ideal öğrenci adayımız olsa da C Programlama Dili ön koşulunu sağlayan kişiler da kursumuza katılabilirler. Tabii bu adayların  bilgi açıklarını kurs devam ederken Derneğimizin yukarıdaki kurslara yönelik hazırlanmış olduğu kurs notlarını temel alarak kapatmaları gerekecektir. 
 
 ## Format
 + Linux Kernel - İşletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi Kursu. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
@@ -45,5 +46,3 @@ Her ne kadar yukarıdaki kurs konuları üzerindeb bilgi sahibi olan kişiler id
 
 ## Sık Sorulan Sorular
 + Linux-Kernel İşletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi-Kursu hakkında sormak istediğiniz soruların bir kısmının yanıtlarını [sık sorulan sorular](https://github.com/CSD-1993/Online-Linux-Kernel-Isletim-Sistemleri-Tasarim-ve-Uygulama-Kursu-26-Nisan-2025/blob/main/sss.md) sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan [C ve Sistem Programcıları Derneği ile iletişime geçebilir](http://www.csystem.org/) ya da __Kaan Aslan__'a bir [e-posta mesajı gönderebilirsiniz](mailto:aslank@csystem.org)
-
-
