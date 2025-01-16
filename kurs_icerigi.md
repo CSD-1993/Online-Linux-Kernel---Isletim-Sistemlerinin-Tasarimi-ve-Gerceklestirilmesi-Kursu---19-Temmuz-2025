@@ -2,8 +2,10 @@
 
 
 ## Giriş
-+ Linux Çekirdeğinin Tarihsel Gelişim
-+ 
++ İşletim Sistemlerinin Tarihsel Gelişimi
++ Kaynak Yöneticisi Olarak İşletim Sistemleri
++ İşletim Sistemlerinin Alt Sistemleri
++ Linux İşletim Sisteminin ve Çekirdeğinin Tarihsel Gelişimi
 
 
 
