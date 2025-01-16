@@ -2,18 +2,24 @@
 
 + Bu kurs [C ve Sistem Programcıları Derneği](http://www.csystem.org/) tarafından Sistem Bilgisayar işbirliği ile düzenlenmektedir. Kurs __19 Nisan 2025__ tarihinde başlayacaktır.
 
-+ Bu kurs Linux kernel tasarımı ve analizine ilişkin ileri düzey bir kurstur. Linux kernel kodları üzerinde geliştirme ve değiştirme yapmayı hedefleyen ve Linux sistemlerinde aygıt sürücüler yazmak isteyen sistem programcılarına yöneliktir. CSD İletim Sistemi Geliştirme Projesi’ne katılmak isteyen programcılar için de temel oluşturma amacındadır.
++ Bu kurs Linux çekirdeğinin tasarımı ve gerçekleştirilmesine ilişkin ileri düzey bir kurstur. Linux'un çekirdek kodları üzerinde geliştirme ve değiştirme yapmayı hedefleyen, işletim sistemlerinin tasarımı üzerinde uzmanlaşmak isteyen ve gerçekleştirimleri üzerinde beceri sağlamak isteyen  C ve sistem programcılarına yönelik olarak hazırlanmıştır. Kurs içerisinde işletim sistemlerinin çeşitli alt sistemleri ayrıntılarıyla ele alınmakta ve Linux çekirdeği üzerinde bu alt sistemlerin gerçekleştirimleri üzerinde durulmaktadır.
 
 + Kurs yüzeysel değil ayrıntılıdır. 
 
 ## Ön Koşul
 
-+ Bu kursa katılabilmeniz için yeterli düzeyde __C Programlama Dili__ bilgisine sahip olmanız gerekmektedir. 
++ Bu kursa katılabilmeniz için yeterli düzeyde __C Programlama Dili__ ile veri yapıları ve algoritmalar konusunda temel bilgilere sahip olmanız gerekmektedir. Kursun bazı bölümlerinde 80x86 ya da ARM mikroişlemcilerinin sembolik makine dilleri kullanılarak yazılmış kodlar üzerinde de bazı gözden geçirmeler yapılmaktadır. Ancak bu işlemcilerin sembolik makine dillerinimn bilinmesi bir ön koşul oluşturmamaktadır. Derneğimizden aşağıdaki kursları almış olanlar kurs için en uygun öğrenci adayı durumundadır:
+
+- C Programlama Dili
+- Sistem Programlama ve İleri C Uygulamaları - 1
+- UNIX/Linux Sistem Programlama
+
+Her ne kadar yukarıdaki kurs konuları üzerindeb bilgi sahibi olan kişiler ideal öğrenci adayımız olsa da C Programlama Dili ön koşulunu sağlayan adaylar da kursumuza katılabilirlerç
 
 ## Format
-+ Linux-Kernel İşletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi Kursu. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
++ Linux Kernel - İşletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi Kursu. Derslerin izlenmesi için [Zoom](https://zoom.us/) yazılımı kullanılmaktadır. Ders sırasında öğrenciler eğitmene soru sorabilirler.
 
-+ Program boyunca öğrencilere belirli aralıklarla ödevler verilmekte ve öğrencilerin yaptığı ödevler için öğrencilere geri besleme yapılmaktadır.
++ Program boyunca öğrencilere belirli aralıklarla çalışmalar verilmekte ve  bu çalışmaları yapan öğrencilere geri bildirimler verilnektedir.
 
 + Öğrenciler kaçırdıkları dersleri ders tarihini izleyen __3__ gün içinde kendilerine verilecek şifre ile Vimeo üzerinden izleyebilirler.
 
