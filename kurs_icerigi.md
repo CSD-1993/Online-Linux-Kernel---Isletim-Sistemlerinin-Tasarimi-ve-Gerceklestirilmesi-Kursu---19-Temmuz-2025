@@ -1,7 +1,8 @@
-# Online Linux Kernel İşletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi (360 Saat)
+# Online Linux Kernel - İşletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi (360 Saat)
 
 
-## 
+## Giriş
++ Linux Çekirdeğinin Tarihsel Gelişim
 + 
 
 
