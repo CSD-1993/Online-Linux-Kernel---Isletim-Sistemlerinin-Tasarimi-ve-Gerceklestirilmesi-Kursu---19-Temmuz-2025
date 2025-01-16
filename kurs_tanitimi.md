@@ -8,7 +8,7 @@
 
 ## Ön Koşul
 
-+ Bu kursa katılabilmeniz __C Programlama Dili__ üzerinde iyi derecede bilgi sahibi olmanız, uygulamalı çalışmalar yapmış olmanız, __veri yapıları ve algoritmalar konusunda temel bilgilere__ sahip olmanız gerekmektedir. Kursumuzun bazı bölümlerinde Intel x86 ya da ARM mikroişlemcilerinin sembolik makine dilleri kullanılarak yazılmış kodlar üzerinde de bazı gözden geçirmeler yapılmaktadır. Ancak bu işlemcilerin sembolik makine dillerinimn bilinmesi bir ön koşul oluşturmamaktadır. Derneğimizden aşağıdaki kursları almış olanlar kurs için ideal öğrenci adayı durumundadır:
++ Bu kursa katılabilmeniz __C Programlama Dili__ üzerinde iyi derecede bilgi sahibi olmanız, uygulamalı çalışmalar yapmış olmanız, __veri yapıları ve algoritmalar__ konusunda temel bilgilere sahip olmanız gerekmektedir. Kursumuzun bazı bölümlerinde Intel x86 ya da ARM mikroişlemcilerinin sembolik makine dilleri kullanılarak yazılmış kodlar üzerinde de bazı gözden geçirmeler yapılmaktadır. Ancak bu işlemcilerin sembolik makine dillerinimn bilinmesi bir ön koşul oluşturmamaktadır. Derneğimizden aşağıdaki kursları almış olanlar kurs için ideal öğrenci adayı durumundadır:
 
 - C Programlama Dili
 - Sistem Programlama ve İleri C Uygulamaları - 1
