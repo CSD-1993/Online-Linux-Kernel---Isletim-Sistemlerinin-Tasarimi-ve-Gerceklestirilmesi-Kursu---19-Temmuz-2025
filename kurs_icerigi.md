@@ -16,6 +16,7 @@
 + Intel ve ARM Sembolik Makine Dilleri (Assembly Languages) Hakkında Temel Bilgiler
 + GCC Derleyicilerinin Temel Özellikleri ve Linux Çekirdek Kodlarında Kullanılan Eklentileri
 + Flat Binary Dosyaların Oluşturulması ve objcopy Programının Kullanımı
++ Bağlayıcıların (Linker) Kullanımı 
 + İşlemcilerde Koruma Mekanizması
 + İşlemcilerin Sayfalama Mekanizması
 + Intel x86-x64 İşlemcilerinde Sayfalama Mekanizması
