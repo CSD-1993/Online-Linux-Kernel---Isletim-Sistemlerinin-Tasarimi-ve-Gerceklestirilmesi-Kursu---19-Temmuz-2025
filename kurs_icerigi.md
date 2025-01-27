@@ -9,10 +9,13 @@
 + Linux Dosya Sistemindeki Dizin Ağacı
 + Linux Çekirdeğinin Genel Yapısı
 
-## Çekirdek Kodlaması İçin Gereken Donanmısal Bilgiler
+## Çekirdek Kodlaması İçin Hazırlık Bilgileri
 + İşlemci Ailelerine Genel Bakış
 + Intel x86-64 İşlemcilerinin Yazılım Mşimarisine İlişkin Temel Özellikler
 + 32 ve 64 Bit ARM İşlemcilerinin (AArch32 ve AArch64) Yazılım Mimarisine İlişkin Temel Özellikler
++ Intel ve ARM Sembolk Makine Dilleri (Assembly Languages) Hakkında Temel Bilgiler
++ GCC Derleyicilerinin Temel Öz<ellikleri ve Linux Çekirdek Kodlarında Kullanılan Ekelntileri
++ Flat Binary Dosyaların Oluşturulması ve objcopy Programının Kullanımı
 + 
 
 
