@@ -6,8 +6,14 @@
 + Kaynak Yöneticisi Olarak İşletim Sistemleri
 + İşletim Sistemlerinin Alt Sistemleri
 + Linux İşletim Sisteminin ve Çekirdeğinin Tarihsel Gelişimi
++ Linux Dosya Sistemindeki Dizin Ağacı
++ Linux Çekirdeğinin Genel Yapısı
 
-
+## Çekirdek Kodlaması İçin Gereken Donanmısal Bilgiler
++ İşlemci Ailelerine Genel Bakış
++ Intel x86-64 İşlemcilerinin Yazılım Mşimarisine İlişkin Temel Özellikler
++ 32 ve 64 Bit ARM İşlemcilerinin (AArch32 ve AArch64) Yazılım Mimarisine İlişkin Temel Özellikler
++ 
 
 
 
