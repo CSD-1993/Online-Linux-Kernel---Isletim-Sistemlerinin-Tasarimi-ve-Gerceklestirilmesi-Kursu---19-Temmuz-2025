@@ -1,8 +1,8 @@
-# Online-Linux-Kernel-Isletim-Sistemlerinin - Tasarımı-ve-Gerçekleştirilmesi-Kursu-19-Nisan-2025
+# Online-Linux-Kernel-Isletim-Sistemlerinin - Tasarımı-ve-Gerçekleştirilmesi-Kursu-14-Haziran-2025
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
-+ Kurs __19 Nisan 2025__ tarihinde başlayacaktır.
++ Kurs __14 Haziran 2025__ tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + __Kurs gerçek zamanlıdır.__ Önceden kayıt edilmiş derslerin izlenmesi biçiminde değildir. Öğrenciler ders sırasında eğitmene soru sorabilirler.
 + Toplam kurs süresi  __360__ saattir. 
