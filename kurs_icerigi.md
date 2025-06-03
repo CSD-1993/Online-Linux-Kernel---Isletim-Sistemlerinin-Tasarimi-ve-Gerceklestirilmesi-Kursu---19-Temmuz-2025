@@ -31,7 +31,7 @@
 ## Linux Çekirdeğinde Proses Yönetimi
 + Proses Kavramı, Proses İlişkin Bilgiler, Proses Kontrol Bloğu
 + Proses Kontrol Bloklarının İçerdiği Bilgiler
-+ Linuz'un task_struct Yapısının İncelenmesi
++ Linux'un task_struct Yapısının İncelenmesi
 + Linux Sistemlerinde Pross'lerin Id Değerlerinin Anlamı ve Id Değerlerinin Oluşturulması
 + Linux Çekirdeğinde Proses Id Değerlrinin Üretilmesi
 + Proses Id Değerinden Proses Kontrol Bloğuna Erişilmesi
@@ -44,7 +44,6 @@
 + Linux Çekirdeğinde Proses Yaratımına İlişkin Sistem Fonksiyonlarının ve Çekirdek Kodlarının Gözden Geçirilmesi
 + Linux Çekirdeklerinde Proseslerin Sonladırılması
 
-+ 
 ## İşletim Sistemlerinde Thread Mekanizmaları
 + Thread Nedir?
 + Prosese ve Thread'e Özgü Bilgiler ve Veri Yapıları
