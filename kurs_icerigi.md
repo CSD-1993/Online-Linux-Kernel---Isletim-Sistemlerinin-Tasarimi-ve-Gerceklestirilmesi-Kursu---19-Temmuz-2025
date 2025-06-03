@@ -28,7 +28,7 @@
 + İkili Arama Ağaçları, AVL ve Kırmızı-Siyah Dengelemesi ve Linux Çekirdeklerindeki Gerçekleştirimleri
 + Cache Sistemlerinin Oluşturulması ve Linux Çekirdeklerinde Tabanlı Cache Sistemlerinin Gerçekleştirimi
   
-## Linux Çekirdeğinde Proses Yönetimi
+## Proses Yönetimi
 + Proses Kavramı, Proses İlişkin Bilgiler, Proses Kontrol Bloğu
 + Proses Kontrol Bloklarının İçerdiği Bilgiler
 + Linux'un task_struct Yapısının İncelenmesi
@@ -44,7 +44,7 @@
 + Linux Çekirdeğinde Proses Yaratımına İlişkin Sistem Fonksiyonlarının ve Çekirdek Kodlarının Gözden Geçirilmesi
 + Linux Çekirdeklerinde Proseslerin Sonladırılması
 
-## İşletim Sistemlerinde Thread Mekanizmaları
+## Thread'ler
 + Thread Nedir?
 + Prosese ve Thread'e Özgü Bilgiler ve Veri Yapıları
 + Linux Çekirdeklerinde Thread'lerin task_struct Yapısındaki Temsili
@@ -52,17 +52,15 @@
 + Thread'lerin Çizelgeleme Politikaları ve Thread'lerin Öncelikleri
 + Linux Çekirdeklerinde Thread'lerin Yaratılması
 + POSIX pthread Kütüphanesinin Genel Yapısı
-
   
-## İşletim Sistemlerinde Bekleme Kuyruklarının Tasarımı ve Gerçekleştirimi
+## Bekleme Kuyruklarının Tasarımı ve Gerçekleştirimi
 + Thread'lerin Bloke Olması
 + Bekleme Kuyruklarının Genel Yapısı
 + Bekleme Kuyruklarının Yaratılması
 + Bekleme Kuyruklarına Thread'lerin yerleştirilmesi ve Geri Alınması
 + Linux Çekirdeklerinde Bekleme Kuyrukları İle İşlem Yapan Çekirdek Kodlarının İncelenmesi
-+ 
 
-## İşletim Sistemlerinde Bağlamsal Geçiş (Context Switch) Mekanizması 
+## Bağlamsal Geçiş (Context Switch) Mekanizması 
 + İşletim sistemlerinde Zaman Paylaşımlı Çalışma
 + Preemtive İşletim Sistemlerine Genel Bakış
 + Preemptive Çekirdekler 
@@ -71,7 +69,7 @@
 + Linux Sistemlerinde Bağlamsal Geçişe İlişkin Kodların İncelenmesi
 + Linux Sistemlerinde Bağlamsal Geçişin Yapıldığı Yerler
 
-## İşletim Sistemlerinde Çizelgeleme 
+## Çizelgeleme İşlemleri
 + Thread Çizelgelmesi Nedir?
 + Thread Çizelgelemesinde Hangi Yöntemler Uygulanmaktadır?
 + Linux Sistemlerindeki Thread Çizelgelemerinde Zaman İçerisinde Hangi Değişiklikler Yapılmıştır?
@@ -79,7 +77,7 @@
 + Birden Çok İşlemciya da Çekirdek Söz Konusu Olduğunda Çizelgeleme Aldoritmasının İşltilmesi
 + 
 
-## İşletim Sistemlerinde Kesme Mekanizmaları
+## Kesme Mekanizmaları ve Kesmelerin Çekirdek Tarafından Ele Alınması
 + Kesme Kavramı ve Kesmelerin Ele Alınması, Kesme Çeşitleri
 + IRQ Kavramı ve PC Mimarisindeki IRQ Mekanizması
 + ARM Mimarilerindeki IRQ Mekanizmaları
@@ -88,7 +86,7 @@
 + Linux Çekirdeklerinde Kesmelerin Ele Alınması
 + Linux Çekirdeklerinde Kesme Oluştuğunda Thread'lerin Çekirdek Moduna Geçmesi ve Kullanıcı Moduna Geri Dönmesi
 + Linux Çekirdeklerinde SoftIRQ ve Tasklet Mekanizmaları
-+ 
+  
 
 
 
