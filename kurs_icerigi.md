@@ -43,6 +43,7 @@
 + Linux Sistemlerinde Proseslerin Kaynak Limitlerine İlişkin Belirlemeler
 + Linux Çekirdeğinde Proses Yaratımına İlişkin Sistem Fonksiyonlarının ve Çekirdek Kodlarının Gözden Geçirilmesi
 + Linux Çekirdeklerinde Proseslerin Sonladırılması
++ Proses Yönetimine İlişkin Sistem Fonksiyonlarının Gözden Geçirilmesi
 
 ## Thread'ler
 + Thread Nedir?
@@ -86,7 +87,7 @@
 + Sistem İstatistiklerinin Güncellenmesi
 + Dinamik Zamanlayıcılar
 + Delay Fonksiyonları
-+ Zamanlamaya Yönelik Sistem Fonksiyonları
++ Zamanlamaya Yönelik Sistem Fonksiyonlarının Gözden Geçirilmesi
 
 ## Bağlamsal Geçiş (Context Switch) Mekanizması 
 + İşletim sistemlerinde Zaman Paylaşımlı Çalışma
@@ -101,8 +102,31 @@
 + Thread Çizelgelmesi Nedir?
 + Thread Çizelgelemesinde Hangi Yöntemler Uygulanmaktadır?
 + Linux Sistemlerindeki Thread Çizelgelemerinde Zaman İçerisinde Hangi Değişiklikler Yapılmıştır?
++ Çizelgeleyici Sisteme İlişkin Veri Yapılarının Tanıtılması
 + Linux'un CFS (Completely Fair Scheduling) Algoritması
++ CFS Algortimasına İlşkin Çekirdek Kodlarının Gözden Geçirilmesi
 + Birden Çok İşlemciya da Çekirdek Söz Konusu Olduğunda Çizelgeleme Aldoritmasının İşltilmesi
++ Çok İşlemcili ya da Çok Çekirdekli Sistemlerde Çalışma Kuyruklarlarının Dengelenmesi
++ Çizelgeleme İşlemlerine Yönelik Sistem Fonksiyonlarının Gçzden Geçirilmesi
+
+## Çekirdeğin Bellek Yönetimi
++ İşlemcilerin Sayfalama Mekanizması
++ İşlemcilerin Koruma Mekanizması
++ SMP ve NUMA Mimarileri
++ Fiziksel Sayfalara İlişkin Çekirdek Veri Yapıları
++ Sayfa Betimleyicileri
++ Sayfaların Tahsis Edilmesi
++ 32 Bit Sistemlerde Yüksek Bellek Alanının Kontrolü
++ İkiz Blok Sisteminin Tasarım ve Gerçekleştirimi
++ CPU'ya Özgü Sayfalama Cache'leri
++ Dilimli Tahsisat Sisteminin (Slab Allocator) Tasarım ve Gerçekleştirimi
++ Ardışıl Olmayan Bellek Tahsisatları
++ Proseslerin Bellek Alanları
++ Bellek Betimleyicileri
++ Belleğin Bölgelere Ayrılması
++ Prosesler İçin Doğrusal Bellek Alanının Tahsisatı
++ Copy On Write Mekanizması
+
 
 ## Kesme Mekanizmaları ve Kesmelerin Çekirdek Tarafından Ele Alınması
 + Kesme Kavramı ve Kesmelerin Ele Alınması, Kesme Çeşitleri
