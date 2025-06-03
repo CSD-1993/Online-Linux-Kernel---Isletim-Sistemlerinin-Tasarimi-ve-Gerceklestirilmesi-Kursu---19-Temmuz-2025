@@ -52,13 +52,41 @@
 + Thread'lerin Çizelgeleme Politikaları ve Thread'lerin Öncelikleri
 + Linux Çekirdeklerinde Thread'lerin Yaratılması
 + POSIX pthread Kütüphanesinin Genel Yapısı
-  
+
+## Linux Çekirdek Kodlarında Senktronizasyon
++ CPU'ya Özgü Değişkenler
++ Atomik İşlemler
++ Bellek Bariyerleri
++ Spinlock Mekanizaması ve Spinlock Nesneler,
++ Rad/Write Spinlock NEsneleri
++ Semaphore Nesnelerinin Kullanımı
++ Seqloc'lar
++ Read Copy Update Mekanizması
++ Read/Write Semaphore Nesneleri
++ Bitiş (Completion) Nesneleri
++ Kesmelerin Kapatılması ve Açılması
+
 ## Bekleme Kuyruklarının Tasarımı ve Gerçekleştirimi
 + Thread'lerin Bloke Olması
 + Bekleme Kuyruklarının Genel Yapısı
 + Bekleme Kuyruklarının Yaratılması
 + Bekleme Kuyruklarına Thread'lerin yerleştirilmesi ve Geri Alınması
 + Linux Çekirdeklerinde Bekleme Kuyrukları İle İşlem Yapan Çekirdek Kodlarının İncelenmesi
+
+## Linux Çekirdeklerinde Zaman Ölçümleri
++ Donanımların Sunduğu Zamanlama Mekanizmaları
++ Gerçek Zaman Saatleri, İşlemcilerin TSC Mekanizmaları, Zamanlayıcı Devreleri (PIT)
++ İşlemcilerin Yerel Zamanlayıcıları (Local Timers)
++ Linux Sistemlerinde Zamanlama İşlemleri
++ Zamanlama Mekanizmasında Kullanılan Veri Yapıları
++ jiffies Değişkeni
++ Timer Kesme Kodunun İncelenmesi
++ Global ve Yerel Kesme Kodları
++ Çekirek Zamanın ve Tarihinin Güncellenmesi
++ Sistem İstatistiklerinin Güncellenmesi
++ Dinamik Zamanlayıcılar
++ Delay Fonksiyonları
++ Zamanlamaya Yönelik Sistem Fonksiyonları
 
 ## Bağlamsal Geçiş (Context Switch) Mekanizması 
 + İşletim sistemlerinde Zaman Paylaşımlı Çalışma
@@ -75,17 +103,18 @@
 + Linux Sistemlerindeki Thread Çizelgelemerinde Zaman İçerisinde Hangi Değişiklikler Yapılmıştır?
 + Linux'un CFS (Completely Fair Scheduling) Algoritması
 + Birden Çok İşlemciya da Çekirdek Söz Konusu Olduğunda Çizelgeleme Aldoritmasının İşltilmesi
-+ 
 
 ## Kesme Mekanizmaları ve Kesmelerin Çekirdek Tarafından Ele Alınması
 + Kesme Kavramı ve Kesmelerin Ele Alınması, Kesme Çeşitleri
 + IRQ Kavramı ve PC Mimarisindeki IRQ Mekanizması
++ Kesme Denetleyicileri ve APIC'ler
 + ARM Mimarilerindeki IRQ Mekanizmaları
 + Donanım Kesmeleri (Hardware Interrupts) ve İçsel Kesmeler (Exceptions)
 + Linux ÇekirdeklerindeKesme Betimleyici Tabloları (Interrupt Descriptor Tables)
 + Linux Çekirdeklerinde Kesmelerin Ele Alınması
 + Linux Çekirdeklerinde Kesme Oluştuğunda Thread'lerin Çekirdek Moduna Geçmesi ve Kullanıcı Moduna Geri Dönmesi
 + Linux Çekirdeklerinde SoftIRQ ve Tasklet Mekanizmaları
++ Çalışma Kuyrukları (Work Queues)
   
 
 
