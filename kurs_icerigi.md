@@ -80,7 +80,6 @@
 + Birden Çok İşlemciya da Çekirdek Söz Konusu Olduğunda Çizelgeleme Aldoritmasının İşltilmesi
 + 
 
-
 ## İşletim Sistemlerinde Kesme Mekanizmaları
 + Kesme Kavramı ve Kesmelerin Ele Alınması, Kesme Çeşitleri
 + IRQ Kavramı ve PC Mimarisindeki IRQ Mekanizması
