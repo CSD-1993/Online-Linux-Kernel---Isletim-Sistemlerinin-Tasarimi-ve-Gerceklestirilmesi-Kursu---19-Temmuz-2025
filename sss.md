@@ -1,5 +1,4 @@
-# Online Linux Kernel -İşletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi Kursu– Sık Sorulan Sorular
-
+# Online Linux Kernel - İşletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi Kursu - 19 Temmuz 2025 - Sık Sorulan Sorular
 Aşağıda Kaan Aslan tarafından verilen Online Linux Kernel - İşletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi Kursu ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
 ### Kurs Programını online olarak takip etmem yani derslere fiziksel olarak katılmamam eğitimden alacağım verimi düşürür mü?
