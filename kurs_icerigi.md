@@ -169,8 +169,11 @@
 + Kirlenmiş Sayfaların Aygıta Yazılması
 + pdflush Kernel Thread'inin Çalışma Sistemi
 + Page Cache Sistemine Yönelik Sistem Fonksiyonları
+
+## Dosya Sisteminde Okuma ve Yazma İşlemleri
 + Disk Tbanlı Dosyalardan (Blok Aygıtlarından) Okuma ve Yazma İşlemlerinin Ayrıntıları
 + Bellek Tabanlı Dosyaların Organizasyonu
++ Asenkron IO İşlemleri
 
 ## Kesme Mekanizmaları ve Kesmelerin Çekirdek Tarafından Ele Alınması
 + Kesme Kavramı ve Kesmelerin Ele Alınması, Kesme Çeşitleri
