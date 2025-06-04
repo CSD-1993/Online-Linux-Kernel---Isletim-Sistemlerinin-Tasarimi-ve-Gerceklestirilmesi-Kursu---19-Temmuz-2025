@@ -44,7 +44,7 @@
 + Linux Çekirdeğinde Proses Yaratımına İlişkin Sistem Fonksiyonlarının ve Çekirdek Kodlarının Gözden Geçirilmesi
 + Linux Çekirdeklerinde Proseslerin Sonladırılması
 + Proses Yönetimine İlişkin Sistem Fonksiyonlarının Gözden Geçirilmesi
-+ 
+  
 ## Thread'ler
 + Thread Nedir?
 + Prosese ve Thread'e Özgü Bilgiler ve Veri Yapıları
@@ -194,7 +194,7 @@
 + Sistem Fonksiyonundan Geriye Dönüş
 + Sistem Fonksiyonlarına İlişkin Makrolar
 
-## Sinyal (Signal= Mekamizması
+## Sinyal (Signal) Mekamizması
 + Sinyal Kavramı
 + Linux Sistemlerinin Desteklediği Sinyaller
 + Siyallere İlişkin Çekirdek Veri Yapıları
