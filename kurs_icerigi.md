@@ -169,7 +169,8 @@
 + Kirlenmiş Sayfaların Aygıta Yazılması
 + pdflush Kernel Thread'inin Çalışma Sistemi
 + Page Cache Sistemine Yönelik Sistem Fonksiyonları
-+ 
++ Disk Tbanlı Dosyalardan (Blok Aygıtlarından) Okuma ve Yazma İşlemlerinin Ayrıntıları
++ Bellek Tabanlı Dosyaların Organizasyonu
 
 ## Kesme Mekanizmaları ve Kesmelerin Çekirdek Tarafından Ele Alınması
 + Kesme Kavramı ve Kesmelerin Ele Alınması, Kesme Çeşitleri
@@ -207,9 +208,6 @@
 + Sinyallerin Yeniden Başlatılması Süreci
 + Sinyallerle İlgili Sistem Fnksiyonları
   
-
-
-
  
 # Kursa Kayıt
 [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZUucuytrTopEtJEi5_RgJJMCHp7BrlLUtTf#/registration)
