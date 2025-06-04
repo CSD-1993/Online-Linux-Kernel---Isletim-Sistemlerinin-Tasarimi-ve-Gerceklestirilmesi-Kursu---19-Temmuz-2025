@@ -2,7 +2,7 @@
 
 Aşağıda __Kaan Aslan__ tarafından verilen __Online Linux-Kernel -İşletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi Kursu__ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
-#### Kurs programını online olarak takip etmem yani derslere fiziksel olarak katılmamam eğitimden alacağım verimi düşürür mü?
+### Kurs Programını online olarak takip etmem yani derslere fiziksel olarak katılmamam eğitimden alacağım verimi düşürür mü?
 Hayır. __C ve Sistem Programcıları Derneği__ olarak düzenlediğimiz online kursların bir dezavantaj oluşturmadığını görüyoruz. Kişiden kişiye değişebilmekle birlikte, öğrencinin eğitimi ev ya da çalışma ortamında daha rahat ve konforlu bir şekilde izlemesi genel olarak verimi arttırıyor. Ayrıca eğitime fiziksel olarak katılmanız durumunda, büyük kentlerdeki trafik koşulları düşünüldüğünde ulaşım için harcayacağınız süreden tasarruf etmiş oluyorsunuz.
 
 ### Dersleri akıllı telefondan ya da mobil bir cihaz üzerinden takip edebilir miyim?
