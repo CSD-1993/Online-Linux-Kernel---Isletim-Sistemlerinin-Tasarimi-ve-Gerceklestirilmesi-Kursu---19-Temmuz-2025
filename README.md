@@ -1,4 +1,4 @@
-# Online Linux Kernel-Isletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi Kursu 19 Temmuz 2025
+# Online Linux Kernel - İşletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi Kursu - 19 Temmuz 2025
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
