@@ -1,4 +1,4 @@
-# Online Linux-Kernel -İşletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi Kursu– Sık Sorulan Sorular
+# Online Linux Kernel -İşletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi Kursu– Sık Sorulan Sorular
 
 Aşağıda __Kaan Aslan__ tarafından verilen __Online Linux-Kernel -İşletim Sistemlerinin Tasarımı ve Gerçekleştirilmesi Kursu__ ile ilgili katılımcıların çok sık sorduğu sorular yer alıyor. Bu sayfa okuyuculardan yeni sorular geldikçe güncellenmektedir.
 
