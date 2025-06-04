@@ -44,7 +44,7 @@
 + Linux Çekirdeğinde Proses Yaratımına İlişkin Sistem Fonksiyonlarının ve Çekirdek Kodlarının Gözden Geçirilmesi
 + Linux Çekirdeklerinde Proseslerin Sonladırılması
 + Proses Yönetimine İlişkin Sistem Fonksiyonlarının Gözden Geçirilmesi
-
++ 
 ## Thread'ler
 + Thread Nedir?
 + Prosese ve Thread'e Özgü Bilgiler ve Veri Yapıları
@@ -74,6 +74,41 @@
 + Bekleme Kuyruklarına Thread'lerin yerleştirilmesi ve Geri Alınması
 + Linux Çekirdeklerinde Bekleme Kuyrukları İle İşlem Yapan Çekirdek Kodlarının İncelenmesi
 
+## Linux Çekirdeğinin Dosya Sistemi 
++ Sanal Dosya Sistemi (Virtual File System) Kavramı
++ Dosya Sistemine İlişkin Veri Yapıları
++ Proseslerin Dosya Betimleyici Tabloları
++ file Yapısı ve Dosya Nesneleri
++ inode Yapısı ve inode Nesneleri
++ dentry Yapısı ve dentry Nesneleri
++ Süper Blok Nesneleri
++ INode Cache Sistemi
++ Dentry Cache Sistemi
++ Dosya Sistemi Türleri
++ Dosya Sistemlerinin Register Ettrilmesi
++ İsim Alanları (Namespaces)
++ Dosya Sistemlerinin Mount Edilmesi
++ Kök Dosya Sisteminin Mount Edilmesi
++ Geçici Kök Dosya Sistemleri
++ Dosya Sistemlrinin Unmount Edilmesi
++ Yol İfadelerinin Çözümlenmesi (Pathname Resolution)
++ Sembolik Bağlantı Dosyalarının İzlenmesi
++ Dosya Sistemine İlişkin Sistem Fonksiyonlarının Gerçekleştirimi
++ Dosya Kilitlemeye Yönelik Veri Yapıları
+  
+## Linux Aygıt Sürücü Mimarisi
++ Donanımsal IO İşlemlerine ve IO Portlarına Genel Bakış
++ Linux Çekirdeğinde Aygıt Sürücü Mimarisi
++ Aygıt Sürücü Mimarisine İlişkin Veri Yapıları)
++ KObject Nesneleri
++ Aygıt Dosyaları (Device Files)
++ Aygıt Sürücülerin Yüklenmesi
++ Aygıt Sürücülere Erişim
++ DMA İşlemleri
++ Karakter Aygıt Sürücülerinin Genel Yazımı
++ Blok Aygıt Sürüclerinin Genel Yazımı
++ Çekirdeğin IO Çizelgeleyicisi
+   
 ## Linux Çekirdeklerinde Zaman Ölçümleri
 + Donanımların Sunduğu Zamanlama Mekanizmaları
 + Gerçek Zaman Saatleri, İşlemcilerin TSC Mekanizmaları, Zamanlayıcı Devreleri (PIT)
@@ -124,9 +159,17 @@
 + Proseslerin Bellek Alanları
 + Bellek Betimleyicileri
 + Belleğin Bölgelere Ayrılması
-+ Prosesler İçin Doğrusal Bellek Alanının Tahsisatı
++ Prosesler İçin Doğrusal Bellek Alanının Yaratılması ve Yok Edilmesi
 + Copy On Write Mekanizması
++ Bellek Yönetimine İlişkin Sistem Fonksiyonları
 
+## Page Cache Sistemi
++ Page Cache Sisteminin Amacı 
++ Page Cache Sisteminin Kullandığı Veri Yapıları
++ Kirlenmiş Sayfaların Aygıta Yazılması
++ pdflush Kernel Thread'inin Çalışma Sistemi
++ Page Cache Sistemine Yönelik Sistem Fonksiyonları
++ 
 
 ## Kesme Mekanizmaları ve Kesmelerin Çekirdek Tarafından Ele Alınması
 + Kesme Kavramı ve Kesmelerin Ele Alınması, Kesme Çeşitleri
@@ -139,6 +182,30 @@
 + Linux Çekirdeklerinde Kesme Oluştuğunda Thread'lerin Çekirdek Moduna Geçmesi ve Kullanıcı Moduna Geri Dönmesi
 + Linux Çekirdeklerinde SoftIRQ ve Tasklet Mekanizmaları
 + Çalışma Kuyrukları (Work Queues)
+  
+## Sistem Fonksiyonları (System Calls)
++ Sistem Fonksiyonlarının Çekirdek Kodlarındaki Organizasyonu
++ Sistem Fonksiyonlarının Çağrılma Mekanizması
++ Kullanıcı Modundan Sistem Fonksiyonarının Çağrılması
++ POSIX Kütüphanesi Tarafından Sistem Fonksiyonlarının Çağrılması
++ Sistem Fonksiyonlstıns Parametre Aktarımı
++ Sistem Fonksiyonlarına Aktarılan Parametrelerin Geçerliliğinin Sınanması
++ Sistem fonksiyonlarından Kullanıcı Alanına Erişim
++ Sistem Fonksiyonundan Geriye Dönüş
++ Sistem Fonksiyonlarına İlişkin Makrolar
+
+## Sinyal (Signal= Mekamizması
++ Sinyal Kavramı
++ Linux Sistemlerinin Desteklediği Sinyaller
++ Siyallere İlişkin Çekirdek Veri Yapıları
++ Çekirdekte Sinyallerin Oluşturulması
++ Sinyallerin Proseslere Teslim Edilmesi
++ Sinyaller İçin Default Davranışların Oluşturulması
++ Sinyallerin Çekirdek Tarafından Yakalanması ve Ele Alınması
++ Sinyallerin Askıda Kalması ve Bloklanması
++ Sinyal Fonkisyonlarından Geriye Dönüş
++ Sinyallerin Yeniden Başlatılması Süreci
++ Sinyallerle İlgili Sistem Fnksiyonları
   
 
 
