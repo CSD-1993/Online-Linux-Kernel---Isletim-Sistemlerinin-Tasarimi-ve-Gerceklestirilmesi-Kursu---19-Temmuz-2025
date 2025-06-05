@@ -18,7 +18,6 @@
 + Flat Binary Dosyaların Oluşturulması ve objcopy Programının Kullanımı
 + Bağlayıcıların (Linker) Kullanımı 
 + İşlemcilerde Koruma Mekanizması
-+ İşlemcilerin Sayfalama Mekanizması
 + Intel x86-x64 İşlemcilerinde Sayfalama Mekanizması
 + ARM İşlemcilerinde Sayfalama Mekanizması
 
@@ -26,24 +25,24 @@
 + Bağlı Listeler ve Linux Çekirdeklerinde Bağlı Listelerin Gerçekleştirimi
 + Hash Tabloları ve Linux Çekirdeklerinde hash tablolarının Gerçekleştirimi
 + İkili Arama Ağaçları, AVL ve Kırmızı-Siyah Dengelemesi ve Linux Çekirdeklerindeki Gerçekleştirimleri
-+ Cache Sistemlerinin Oluşturulması ve Linux Çekirdeklerinde Tabanlı Cache Sistemlerinin Gerçekleştirimi
++ Cache Sistemlerinin Oluşturulması ve Linux Çekirdeklerinde LRU Tabanlı Cache Sistemlerinin Gerçekleştirimi
   
 ## Proses Yönetimi
-+ Proses Kavramı, Proses İlişkin Bilgiler, Proses Kontrol Bloğu
++ Proses Kavramı, Proseslere İlişkin Bilgiler, Proses Kontrol Bloğu
 + Proses Kontrol Bloklarının İçerdiği Bilgiler
 + Linux'un task_struct Yapısının İncelenmesi
-+ Linux Sistemlerinde Pross'lerin Id Değerlerinin Anlamı ve Id Değerlerinin Oluşturulması
++ Linux Sistemlerinde Pross'lerin Id Değerlerinin Anlamı ve Proses Id Değerlerinin Oluşturulması
 + Linux Çekirdeğinde Proses Id Değerlrinin Üretilmesi
 + Proses Id Değerinden Proses Kontrol Bloğuna Erişilmesi
 + Prosesler Arasındaki İlişkilerin Oluşturulduğu Veri Yapıları
 + Linux Sistemlerinde task_struct Yapılarının Arasındaki Bağlantılar
-+ Linux'ta Prooses Ağacının Dolaşılması
++ Linux Çekirdeğinde Prooses Ağacının Dolaşılması
 + Linux Çekirdeğinde Prosslerin Durumları (Prcsess State)
 + Proseslerin Kaynak Limitleri
 + Linux Sistemlerinde Proseslerin Kaynak Limitlerine İlişkin Belirlemeler
 + Linux Çekirdeğinde Proses Yaratımına İlişkin Sistem Fonksiyonlarının ve Çekirdek Kodlarının Gözden Geçirilmesi
 + Linux Çekirdeklerinde Proseslerin Sonladırılması
-+ Proses Yönetimine İlişkin Sistem Fonksiyonlarının Gözden Geçirilmesi
++ Linux Çekirdeğinde Prseslere İlişkin Sistem Fonksiyonlarının Gözden Geçirilmesi
   
 ## Thread'ler
 + Thread Nedir?
