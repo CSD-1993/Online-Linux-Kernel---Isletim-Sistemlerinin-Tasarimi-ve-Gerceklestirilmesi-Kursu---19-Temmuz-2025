@@ -4,6 +4,9 @@ Aşağıda Kaan Aslan tarafından verilen Online Linux Kernel - İşletim Sistem
 ### Bu kursa katılmakla mesleki kariyerim açısından hangi faydaları sağlayabilirim?
 Bu kurs Linux çekirdeği bağlamında işletim sistemlerinin tasarım ve yazımına ilişkin ayrıntılı bilgiler vermeyi hedefliyor. Eğer Linux sistemlerinde C/C++ ile programlama yapıyorsanız ve Linux işletim sisteminin nasıl gerçekleştirdiğini merak ediyorsanız bu kurs size çok şey katacaktır. Bu kursta elde edeceğiniz bilgi ve becerilerle Linux'un (ve genel olarak işletim sistemlerinin) aşağı seviyeli çalışmasına yönelik pek çok besleyici bilgi edineceksiniz. Bu bilgiler de pek çok süreci daha iyi kavramanınzı ve yorumlamanızı kolaylaştıracaktır.
 
+### Bu kursu bitirince kendi başıma bir işletim sistemi yazabilecek hale gelebilecek miyim?
+Günlük Yaşamda Kullandığımız masaüstü işletim sistemleri zaman içerisinde büyük projeler biçimine dönüşmüştür. Bu sistemler üzerinde kodlama yapan sistem programcıları genellikle işletim sistemlerinin belli alt sistemleri üzerinde uzmanlaşmış durumdadır. Bu kadar büyük projeler artık bir grup ile ve belli bir finansmanla yürütülmektedir. Mühendislik bakımdan büyük bir yazılım projesinin boğazın iki yakasını bir araya geitren bir köprü yapmaktan farkı ypktur. Nasıl böyle bir köprünün yapılış aşamalarını bilmekle onu yapmak aynı şey değilse aynı durum işletim sistemleri için de geçerlidir. Buradaan elde edeceğiniz bilgilerle küçük işletim sistemlerini kendi başınıza yapabilirsiniz (tıpku köyünğzdeki dereye kendi başınıza bir köprü yapabildiğiniz gibi) ancak Linux'a benzer bir sistemi kimse tek başına yazabilecek durumda değildir. Bu tür sistemlerin basit kodlarla başlayıp zaman içerisinde çok karışık ve ayrıntılı hale geldiğini gözden kaçırmayınız.
+
 ### Kusta biz de kod yazacak mıyız?
 Kursumuz Linux çekirdeğinin ve genel olarak işletim istsmelerinin tasarım ve yazımına ilişkin bilgiler veriyor. Ancak kursta pek çok kod da yazılıyor. (Bazen bazı kodları çekirdek kodlarıyla yer değiştiriyouruz. Bazen bazı çekirdek kodlarını değiştiriyoruz.) Yani kursumuz yalnızca teorik bilgi vermiyor aynı zamanda işletim sisemlerine yönelik kodlama becerisi de kazandırmayı hedefliyor.
 
@@ -17,7 +20,7 @@ Evet. Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisa
 Kesin kayıt yaptıran tüm öğrencilerimiz yapılan dersin kaydını ileteceğimiz VIMEO bağlantısı üzerinden izleyebilirler.
 
 ### 360 saatlik bir kurs süresi çok uzun değil mi?
-Eğitim içeriği göz önüne alındığında __360__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
+Derneimizin açtığı kurslar yüzelsel değil ayrıntılıdır. Eğitim içeriği göz önüne alındığında __360__ saatlik kurs süresinin kesinlikle uzun olmadığını söyleyebiliriz. 
 
 ### Yurt dışında çalışıyorum / öğrenciyim. Derslere yurt dışından katılmam mümkün mü?
 Tabi ki. 
