@@ -25,7 +25,7 @@
 
 ## Linux Sistemlerinin Boot Süreci 
 + Boot İşleminin Genel İşleyişi
-+ Masaüstü Sistemlerde ve Gömülü Sistemlerde Boot Süreci
++ asaüstü Sistemlerde ve Gömülü Sistemlerde Boot Süreci
 + Boot Loader Programları
 + Çekirdek Parametreleri
 + Çekirdek Parametrelerinin Çekirdek Kodları Tarafından Elde Edilmesi ve Kullanılması
