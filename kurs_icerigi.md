@@ -185,7 +185,7 @@
 + Asenkron IO İşlemleri
 
 ## Prosesler Arası Haberleşme Mekanizmalarının Linuz Çekirdeği Tarafından Gerçekleştirimleri
-+ Sisisiz ve İsimli Boruların Gerçekleştirimi
++ İsimsiz ve İsimli Boruların Gerçekleştirimi
 + Mesaj Kuyruklarının Gerçekleştimi
 + Paylaşılan Bellek Alanlarının Gerçekleştirimi
 
@@ -193,7 +193,8 @@
 + proc ve sysfs Dosya Sistemlerinin Genel Tanıtımı
 + proc Dosya Sisteminin Çekirdek Organizasyonu
 + Çekirdeğin proc Dosya Sistemini Kullanma Biçimleri
-+ 
++ sys Dosya Sisteminin Organizasyonu
++ Çekirdeğin sys Dosya Sistemini Kullanma Biçimleri
 
 ## Kesme Mekanizmaları ve Kesmelerin Çekirdek Tarafından Ele Alınması
 + Kesme Kavramı ve Kesmelerin Ele Alınması, Kesme Çeşitleri
