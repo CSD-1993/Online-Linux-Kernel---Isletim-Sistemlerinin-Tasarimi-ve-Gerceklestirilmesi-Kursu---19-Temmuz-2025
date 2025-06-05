@@ -98,14 +98,14 @@
 ## Linux Aygıt Sürücü Mimarisi
 + Donanımsal IO İşlemlerine ve IO Portlarına Genel Bakış
 + Linux Çekirdeğinde Aygıt Sürücü Mimarisi
-+ Aygıt Sürücü Mimarisine İlişkin Veri Yapıları)
++ Linux Çekirdeğinde Aygıt Sürücü Mimarisine İlişkin Veri Yapıları)
 + KObject Nesneleri
 + Aygıt Dosyaları (Device Files)
-+ Aygıt Sürücülerin Yüklenmesi
++ Aygıt Sürücülerinin Yüklenme Süreci
 + Aygıt Sürücülere Erişim
 + DMA İşlemleri
-+ Karakter Aygıt Sürücülerinin Genel Yazımı
-+ Blok Aygıt Sürüclerinin Genel Yazımı
++ Karakter Aygıt Sürücülerinin Temel Yapısı ve Çalışma Biçimi
++ Blok Aygıt Sürüclerinin Temel Yapısı ve Çalışma Biçimi
 + Çekirdeğin IO Çizelgeleyicisi
    
 ## Linux Çekirdeklerinde Zaman Ölçümleri
