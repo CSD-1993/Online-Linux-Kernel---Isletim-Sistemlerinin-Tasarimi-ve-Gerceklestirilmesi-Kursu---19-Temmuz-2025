@@ -113,19 +113,6 @@
 + Sembolik Bağlantı Dosyalarının İzlenmesi
 + Dosya Sistemine İlişkin Sistem Fonksiyonlarının Gerçekleştirimi
 + Dosya Kilitlemeye Yönelik Veri Yapıları
-  
-## Linux Aygıt Sürücü Mimarisi
-+ Donanımsal IO İşlemlerine ve IO Portlarına Genel Bakış
-+ Linux Çekirdeğinde Aygıt Sürücü Mimarisi
-+ Linux Çekirdeğinde Aygıt Sürücü Mimarisine İlişkin Veri Yapıları)
-+ KObject Nesneleri
-+ Aygıt Dosyaları (Device Files)
-+ Aygıt Sürücülerinin Yüklenme Süreci
-+ Aygıt Sürücülere Erişim
-+ DMA İşlemleri
-+ Karakter Aygıt Sürücülerinin Temel Yapısı ve Çalışma Biçimi
-+ Blok Aygıt Sürüclerinin Temel Yapısı ve Çalışma Biçimi
-+ Çekirdeğin IO Çizelgeleyicisi
    
 ## Linux Çekirdeklerinde Zaman Ölçümleri
 + Donanımların Sunduğu Zamanlama Mekanizmaları
@@ -161,7 +148,7 @@
 + Çok İşlemcili ya da Çok Çekirdekli Sistemlerde Çalışma Kuyruklarlarının Dengelenmesi
 + Çizelgeleme İşlemlerine Yönelik Sistem Fonksiyonlarının Gözden Geçirilmesi
 
-## Çekirdeğin Bellek Yönetimi
+## Çekirdeğin Fiziksel Bellek Yönetimi
 + İşlemcilerin Sayfalama Mekanizması
 + İşlemcilerin Koruma Mekanizması
 + SMP ve NUMA Mimarileri
@@ -173,12 +160,6 @@
 + Dilimli Tahsisat Sisteminin (Slab Allocator) Tasarım ve Gerçekleştirimi
 + CPU'ya Özgü Sayfalama Cache'leri
 + Ardışıl Olmayan Bellek Tahsisatları
-+ Proseslerin Bellek Alanları
-+ Bellek Betimleyicileri
-+ Belleğin Bölgelere Ayrılması
-+ Prosesler İçin Doğrusal Bellek Alanının Yaratılması ve Yok Edilmesi
-+ Copy On Write Mekanizması
-+ Bellek Yönetimine İlişkin Sistem Fonksiyonları
 
 ## Page Cache Sistemi
 + Page Cache Sisteminin Amacı 
@@ -186,6 +167,14 @@
 + Kirlenmiş Sayfaların Aygıta Yazılması
 + pdflush Kernel Thread'inin Çalışma Sistemi
 + Page Cache Sistemine Yönelik Sistem Fonksiyonları
+
+## Çekirdeğin Proses Bellek Alanı Yönetimi
++ Proseslerin Bellek Alanları
++ Bellek Betimleyicileri
++ Belleğin Bölgelere Ayrılması
++ Prosesler İçin Doğrusal Bellek Alanının Yaratılması ve Yok Edilmesi
++ Copy On Write Mekanizması
++ Bellek Yönetimine İlişkin Sistem Fonksiyonları
 
 ## Dosya Sisteminde Okuma ve Yazma İşlemleri
 + Disk Tbanlı Dosyalardan (Blok Aygıtlarından) Okuma ve Yazma İşlemlerinin Ayrıntıları
@@ -227,6 +216,19 @@
 + Sinyal Fonkisyonlarından Geriye Dönüş
 + Sinyallerin Yeniden Başlatılması Süreci
 + Sinyallerle İlgili Sistem Fonksiyonları
+
+## Linux Aygıt Sürücü Mimarisi
++ Donanımsal IO İşlemlerine ve IO Portlarına Genel Bakış
++ Linux Çekirdeğinde Aygıt Sürücü Mimarisi
++ Linux Çekirdeğinde Aygıt Sürücü Mimarisine İlişkin Veri Yapıları)
++ KObject Nesneleri
++ Aygıt Dosyaları (Device Files)
++ Aygıt Sürücülerinin Yüklenme Süreci
++ Aygıt Sürücülere Erişim
++ DMA İşlemleri
++ Karakter Aygıt Sürücülerinin Temel Yapısı ve Çalışma Biçimi
++ Blok Aygıt Sürüclerinin Temel Yapısı ve Çalışma Biçimi
++ Çekirdeğin IO Çizelgeleyicisi
 
 ## Ext ve FAT Dosya Sistemlerinin Gerçekleştirimi (Signal) Mekamizması
 + Ext Dosya Sistemlerinin Disk Organizasyonu
