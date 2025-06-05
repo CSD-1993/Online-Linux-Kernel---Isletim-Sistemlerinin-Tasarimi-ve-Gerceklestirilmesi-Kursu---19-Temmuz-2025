@@ -161,14 +161,12 @@
 + CPU'ya Özgü Sayfalama Cache'leri
 + Ardışıl Olmayan Bellek Tahsisatları
 
-## Page Cache Sistemi ve Sanal Bellek Mekanizması
+## Page Cache Sistemi 
 + Page Cache Sisteminin Amacı 
 + Page Cache Sisteminin Kullandığı Veri Yapıları
 + Kirlenmiş Sayfaların Aygıta Yazılması
 + pdflush Kernel Thread'inin Çalışma Sistemi
 + Page Cache Sistemine Yönelik Sistem Fonksiyonları
-+ Page Fault İşlemlerinin Ele Alınması
-+ Sanal Bellek Mekanizmasının Çekirdek Tarafından İşletilmesi
   
 ## Proseslerin Sanal Bellek Alanlarının Yönetimi
 + Proseslerin Bellek Alanları
@@ -179,6 +177,13 @@
 + Copy On Write Mekanizması
 + Bellek Yönetimine İlişkin Sistem Fonksiyonları
 
+## Sanal Belllek Yönetimi
++ Sanal Bellek Kavramı
++ Sanal Bellek Mekanizmasının Çekirdek Tarafından İşletilmesi
++ Takas Alanlarının Yönetilmesi
++ Takas Alanlarının Cache Sistemleri
++ Sanal Bellek Mekanizması İçin Çekirdek Tarafından Kullanılan Veri Yapıları
+  
 ## Dosya Sisteminde Okuma ve Yazma İşlemleri
 + Disk Tbanlı Dosyalardan (Blok Aygıtlarından) Okuma ve Yazma İşlemlerinin Ayrıntıları
 + Bellek Tabanlı Dosyaların Organizasyonu
