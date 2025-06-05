@@ -61,7 +61,10 @@
 + Linux Sistemlerinde Proseslerin Kaynak Limitlerine İlişkin Belirlemeler
 + Linux Çekirdeğinde Proses Yaratımına İlişkin Sistem Fonksiyonlarının ve Çekirdek Kodlarının Gözden Geçirilmesi
 + Linux Çekirdeklerinde Proseslerin Sonladırılması
++ ELF Formatına Genel Bakış
++ exec Fonksiyonlarının Gerçekleştirimi
 + Linux Çekirdeğinde Prseslere İlişkin Sistem Fonksiyonlarının Gözden Geçirilmesi
+
   
 ## Thread Yönetimi
 + Thread Kavramı ve Thread'lere Olan Gereksinim
@@ -72,7 +75,7 @@
 + Linux Çekirdeklerinde Thread'lerin Yaratılması
 + POSIX pthread Kütüphanesinin Genel Yapısı ve Gerçekleştirimine İlişkin Bilgiler
 
-## Linux Çekirdek Kodlarında Senktronizasyon
+## Linux Çekirdek Kodlarında Senkronizasyon
 + CPU'ya Özgü Değişkenler
 + Atomik İşlemler
 + Bellek Bariyerleri
