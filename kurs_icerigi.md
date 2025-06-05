@@ -32,7 +32,7 @@
 + Geçici Kök Dosya Sistemi
 + Kök Dosya Sisteminin Mount Edilmesi
   
-+ ## Çekirdepin Derlenmesi
++ ## Çekirdeğin Derlenmesi
 + Çekirdek Derleme İşlemlerinin Adımları
 + Kaynak Kodların İndirilmesi
 + Çekirdek Build Sisteminin Gözden Geçirilmesi
@@ -41,6 +41,7 @@
 
 ## Çekirdek Kodlamasında Kullanılan Önemli Veri Yapıları
 + Bağlı Listeler ve Linux Çekirdeklerinde Bağlı Listelerin Gerçekleştirimi
++ Kuyruk Sistemleri ve Linux Çekirdeklerinde Kuyruk Sistemlerinin Gerçekleştirimi
 + Hash Tabloları ve Linux Çekirdeklerinde hash tablolarının Gerçekleştirimi
 + İkili Arama Ağaçları, AVL ve Kırmızı-Siyah Dengelemesi ve Linux Çekirdeklerindeki Gerçekleştirimleri
 + Cache Sistemlerinin Oluşturulması ve Linux Çekirdeklerinde LRU Tabanlı Cache Sistemlerinin Gerçekleştirimi
