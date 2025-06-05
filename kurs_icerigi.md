@@ -204,10 +204,10 @@
 + Sinyallerin Proseslere Teslim Edilmesi
 + Sinyaller İçin Default Davranışların Oluşturulması
 + Sinyallerin Çekirdek Tarafından Yakalanması ve Ele Alınması
-+ Sinyallerin Askıda Kalması ve Bloklanması
++ Sinyallerin Askıda Kalması ve Bloke Edilmesi
 + Sinyal Fonkisyonlarından Geriye Dönüş
 + Sinyallerin Yeniden Başlatılması Süreci
-+ Sinyallerle İlgili Sistem Fnksiyonları
++ Sinyallerle İlgili Sistem Fonksiyonları
   
  
 # Kursa Kayıt
