@@ -161,18 +161,21 @@
 + CPU'ya Özgü Sayfalama Cache'leri
 + Ardışıl Olmayan Bellek Tahsisatları
 
-## Page Cache Sistemi
+## Page Cache Sistemi ve Sanal Bellek Mekanizması
 + Page Cache Sisteminin Amacı 
 + Page Cache Sisteminin Kullandığı Veri Yapıları
 + Kirlenmiş Sayfaların Aygıta Yazılması
 + pdflush Kernel Thread'inin Çalışma Sistemi
 + Page Cache Sistemine Yönelik Sistem Fonksiyonları
-
-## Çekirdeğin Proses Bellek Alanı Yönetimi
++ Page Fault İşlemlerinin Ele Alınması
++ Sanal Bellek Mekanizmasının Çekirdek Tarafından İşletilmesi
+  
+## Proseslerin Sanal Bellek Alanlarının Yönetimi
 + Proseslerin Bellek Alanları
 + Bellek Betimleyicileri
 + Belleğin Bölgelere Ayrılması
 + Prosesler İçin Doğrusal Bellek Alanının Yaratılması ve Yok Edilmesi
++ Mapping İşlemleri ve Bellek Tabanlı Dosyaların Gerçekleştirimi
 + Copy On Write Mekanizması
 + Bellek Yönetimine İlişkin Sistem Fonksiyonları
 
@@ -180,6 +183,17 @@
 + Disk Tbanlı Dosyalardan (Blok Aygıtlarından) Okuma ve Yazma İşlemlerinin Ayrıntıları
 + Bellek Tabanlı Dosyaların Organizasyonu
 + Asenkron IO İşlemleri
+
+## Prosesler Arası Haberleşme Mekanizmalarının Linuz Çekirdeği Tarafından Gerçekleştirimleri
++ Sisisiz ve İsimli Boruların Gerçekleştirimi
++ Mesaj Kuyruklarının Gerçekleştimi
++ Paylaşılan Bellek Alanlarının Gerçekleştirimi
+
+## proc ve sysfs Dosya Sistemlerinin Gerçekleştirimi ve Çekirdek Tarafından Kullanımı
++ proc ve sysfs Dosya Sistemlerinin Genel Tanıtımı
++ proc Dosya Sisteminin Çekirdek Organizasyonu
++ Çekirdeğin proc Dosya Sistemini Kullanma Biçimleri
++ 
 
 ## Kesme Mekanizmaları ve Kesmelerin Çekirdek Tarafından Ele Alınması
 + Kesme Kavramı ve Kesmelerin Ele Alınması, Kesme Çeşitleri
