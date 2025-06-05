@@ -44,7 +44,7 @@
 + Linux Çekirdeklerinde Proseslerin Sonladırılması
 + Linux Çekirdeğinde Prseslere İlişkin Sistem Fonksiyonlarının Gözden Geçirilmesi
   
-## Thread'ler
+## Thread Yönetimi
 + Thread Kavramı ve Thread'lere Olan Gereksinim
 + Prosese ve Thread'e Özgü Bilgiler ve Veri Yapıları
 + Linux Çekirdeklerinde Thread'lerin task_struct Yapısıyla Temsili
