@@ -20,12 +20,22 @@
 + İşlemcilerde Koruma Mekanizması
 + Intel x86-x64 İşlemcilerinde Sayfalama Mekanizması
 + ARM İşlemcilerinde Sayfalama Mekanizması
++ Linux Çekirdek Kodlarına İlişkin Dizin Ağacı
++ Çekirdek Kaynak Kodlarında Ne Nerededir?
 
 ## Çekirdek Kodlamasında Kullanılan Önemli Veri Yapıları
 + Bağlı Listeler ve Linux Çekirdeklerinde Bağlı Listelerin Gerçekleştirimi
 + Hash Tabloları ve Linux Çekirdeklerinde hash tablolarının Gerçekleştirimi
 + İkili Arama Ağaçları, AVL ve Kırmızı-Siyah Dengelemesi ve Linux Çekirdeklerindeki Gerçekleştirimleri
 + Cache Sistemlerinin Oluşturulması ve Linux Çekirdeklerinde LRU Tabanlı Cache Sistemlerinin Gerçekleştirimi
+
+## Linux Sistemlerinin Boot Süreci 
++ Boot İşleminin Genel İşleyişi
++ Boot Loader Programları
++ Çekirdek Parametreleri
++ Çekirdek Parametrelerinin Çekirdek Kodları Tarafından Elde Edilmesi ve Kullanılması
++ Geçici Kök Dosya Sistemi
++ Kök Dosya Sisteminin Mount Edilmesi
   
 ## Proses Yönetimi
 + Proses Kavramı, Proseslere İlişkin Bilgiler, Proses Kontrol Bloğu
@@ -208,7 +218,12 @@
 + Sinyal Fonkisyonlarından Geriye Dönüş
 + Sinyallerin Yeniden Başlatılması Süreci
 + Sinyallerle İlgili Sistem Fonksiyonları
-  
- 
+
+## Ext ve FAT Dosya Sistemlerinin Gerçekleştirimi (Signal) Mekamizması
++ Ext Dosya Sistemlerinin Disk Organizasyonu
++ Ext Dosya Sistemine İlişkin Çekirdek Kodlarının Gözden Geçirilmesi
++ FAT Dosya Sisteminin Disk Organizasyonu
++ FAT Dosya Sistemine İlişkin Çekirdek Kodlarının Gözden Geçirilmesi
+
 # Kursa Kayıt
 [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZUucuytrTopEtJEi5_RgJJMCHp7BrlLUtTf#/registration)
