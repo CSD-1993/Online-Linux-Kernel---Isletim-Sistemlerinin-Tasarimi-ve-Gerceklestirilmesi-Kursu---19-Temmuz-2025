@@ -11,12 +11,12 @@
 
 ## Çekirdek Kodlaması İçin Hazırlık Bilgileri
 + İşlemci Ailelerine Genel Bakış
-+ Intel x86-64 İşlemcilerinin Yazılım Mşimarisine İlişkin Temel Özellikler
++ Intel x86-64 İşlemcilerinin Yazılım Miimarisine İlişkin Temel Özellikler
 + 32 ve 64 Bit ARM İşlemcilerinin (AArch32 ve AArch64) Yazılım Mimarisine İlişkin Temel Özellikler
 + Intel ve ARM Sembolik Makine Dilleri (Assembly Languages) Hakkında Temel Bilgiler
-+ GCC Derleyicilerinin Temel Özellikleri ve Linux Çekirdek Kodlarında Kullanılan Eklentileri
++ GCC Derleyicilerinin Linux Çekirdek Kodlarını İlgilendiren Eklentileri
 + Flat Binary Dosyaların Oluşturulması ve objcopy Programının Kullanımı
-+ Bağlayıcıların (Linker) Kullanımı 
++ Bağlayıcıların (Linkers) Kullanımı 
 + İşlemcilerde Koruma Mekanizması
 + Intel x86-x64 İşlemcilerinde Sayfalama Mekanizması
 + ARM İşlemcilerinde Sayfalama Mekanizması
