@@ -134,14 +134,13 @@
 
 ## Çizelgeleme İşlemleri
 + Thread Çizelgelmesi Nedir?
-+ Thread Çizelgelemesinde Hangi Yöntemler Uygulanmaktadır?
-+ Linux Sistemlerindeki Thread Çizelgelemerinde Zaman İçerisinde Hangi Değişiklikler Yapılmıştır?
++ Thread Çizelgelemesinde Hangi Veri Yapıları ve Algoritmalar Kullanılmaktadır?
++ Linux Sistemlerindeki Thread Çizelgelemelerinde Zaman İçerisinde Hangi Değişiklikler Yapılmıştır?
 + Çizelgeleyici Sisteme İlişkin Veri Yapılarının Tanıtılması
 + Linux'un CFS (Completely Fair Scheduling) Algoritması
 + CFS Algortimasına İlşkin Çekirdek Kodlarının Gözden Geçirilmesi
-+ Birden Çok İşlemciya da Çekirdek Söz Konusu Olduğunda Çizelgeleme Aldoritmasının İşltilmesi
 + Çok İşlemcili ya da Çok Çekirdekli Sistemlerde Çalışma Kuyruklarlarının Dengelenmesi
-+ Çizelgeleme İşlemlerine Yönelik Sistem Fonksiyonlarının Gçzden Geçirilmesi
++ Çizelgeleme İşlemlerine Yönelik Sistem Fonksiyonlarının Gözden Geçirilmesi
 
 ## Çekirdeğin Bellek Yönetimi
 + İşlemcilerin Sayfalama Mekanizması
@@ -150,10 +149,10 @@
 + Fiziksel Sayfalara İlişkin Çekirdek Veri Yapıları
 + Sayfa Betimleyicileri
 + Sayfaların Tahsis Edilmesi
-+ 32 Bit Sistemlerde Yüksek Bellek Alanının Kontrolü
++ 32 Bit Sistemlerde Yüksek Bellek Alanının Yönetimi
 + İkiz Blok Sisteminin Tasarım ve Gerçekleştirimi
-+ CPU'ya Özgü Sayfalama Cache'leri
 + Dilimli Tahsisat Sisteminin (Slab Allocator) Tasarım ve Gerçekleştirimi
++ CPU'ya Özgü Sayfalama Cache'leri
 + Ardışıl Olmayan Bellek Tahsisatları
 + Proseslerin Bellek Alanları
 + Bellek Betimleyicileri
