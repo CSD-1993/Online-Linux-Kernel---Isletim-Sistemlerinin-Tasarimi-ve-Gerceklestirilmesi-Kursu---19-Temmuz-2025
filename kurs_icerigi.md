@@ -116,8 +116,8 @@
 + Zamanlama Mekanizmasında Kullanılan Veri Yapıları
 + jiffies Değişkeni
 + Timer Kesme Kodunun İncelenmesi
-+ Global ve Yerel Kesme Kodları
-+ Çekirek Zamanın ve Tarihinin Güncellenmesi
++ Global ve Yerel Timer Kesme Kodları
++ Çekirek Zamanının ve Tarihinin Güncellenmesi
 + Sistem İstatistiklerinin Güncellenmesi
 + Dinamik Zamanlayıcılar
 + Delay Fonksiyonları
