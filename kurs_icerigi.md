@@ -23,19 +23,27 @@
 + Linux Çekirdek Kodlarına İlişkin Dizin Ağacı
 + Çekirdek Kaynak Kodlarında Ne Nerededir?
 
-## Çekirdek Kodlamasında Kullanılan Önemli Veri Yapıları
-+ Bağlı Listeler ve Linux Çekirdeklerinde Bağlı Listelerin Gerçekleştirimi
-+ Hash Tabloları ve Linux Çekirdeklerinde hash tablolarının Gerçekleştirimi
-+ İkili Arama Ağaçları, AVL ve Kırmızı-Siyah Dengelemesi ve Linux Çekirdeklerindeki Gerçekleştirimleri
-+ Cache Sistemlerinin Oluşturulması ve Linux Çekirdeklerinde LRU Tabanlı Cache Sistemlerinin Gerçekleştirimi
-
 ## Linux Sistemlerinin Boot Süreci 
 + Boot İşleminin Genel İşleyişi
++ Masaüstü Sistemlerde ve Gömülü Sistemlerde Boot Süreci
 + Boot Loader Programları
 + Çekirdek Parametreleri
 + Çekirdek Parametrelerinin Çekirdek Kodları Tarafından Elde Edilmesi ve Kullanılması
 + Geçici Kök Dosya Sistemi
 + Kök Dosya Sisteminin Mount Edilmesi
+  
++ ## Çekirdepin Derlenmesi
++ Çekirdek Derleme İşlemlerinin Adımları
++ Kaynak Kodların İndirilmesi
++ Çekirdek Build Sisteminin Gözden Geçirilmesi
++ Çekirdek Üzerinde yapılan Değişikliklerin Build İşlemine Dahil Edilmesi
++ Sistemin Yeni Çekirdekle Yeniden Başlatılmasının Sağlanması
+
+## Çekirdek Kodlamasında Kullanılan Önemli Veri Yapıları
++ Bağlı Listeler ve Linux Çekirdeklerinde Bağlı Listelerin Gerçekleştirimi
++ Hash Tabloları ve Linux Çekirdeklerinde hash tablolarının Gerçekleştirimi
++ İkili Arama Ağaçları, AVL ve Kırmızı-Siyah Dengelemesi ve Linux Çekirdeklerindeki Gerçekleştirimleri
++ Cache Sistemlerinin Oluşturulması ve Linux Çekirdeklerinde LRU Tabanlı Cache Sistemlerinin Gerçekleştirimi
   
 ## Proses Yönetimi
 + Proses Kavramı, Proseslere İlişkin Bilgiler, Proses Kontrol Bloğu
