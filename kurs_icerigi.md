@@ -32,7 +32,7 @@
 + Geçici Kök Dosya Sistemi
 + Kök Dosya Sisteminin Mount Edilmesi
   
-+ ## Çekirdeğin Derlenmesi
+## Çekirdeğin Derlenmesi
 + Çekirdek Derleme İşlemlerinin Adımları
 + Kaynak Kodların İndirilmesi
 + Çekirdek Build Sisteminin Gözden Geçirilmesi
