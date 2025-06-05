@@ -45,21 +45,21 @@
 + Linux Çekirdeğinde Prseslere İlişkin Sistem Fonksiyonlarının Gözden Geçirilmesi
   
 ## Thread'ler
-+ Thread Nedir?
++ Thread Kavramı ve Thread'lere Olan Gereksinim
 + Prosese ve Thread'e Özgü Bilgiler ve Veri Yapıları
-+ Linux Çekirdeklerinde Thread'lerin task_struct Yapısındaki Temsili
++ Linux Çekirdeklerinde Thread'lerin task_struct Yapısıyla Temsili
 + Linux Çekirdeklerinde Prosesin Thread'lerinin Tutulduğu Veri Yapıları
 + Thread'lerin Çizelgeleme Politikaları ve Thread'lerin Öncelikleri
 + Linux Çekirdeklerinde Thread'lerin Yaratılması
-+ POSIX pthread Kütüphanesinin Genel Yapısı
++ POSIX pthread Kütüphanesinin Genel Yapısı ve Gerçekleştirimine İlişkin Bilgiler
 
 ## Linux Çekirdek Kodlarında Senktronizasyon
 + CPU'ya Özgü Değişkenler
 + Atomik İşlemler
 + Bellek Bariyerleri
-+ Spinlock Mekanizaması ve Spinlock Nesneler,
++ Spinlock Mekanizaması ve Spinlock Nesneleri
 + Rad/Write Spinlock NEsneleri
-+ Semaphore Nesnelerinin Kullanımı
++ Semaphore Nesneleri
 + Seqloc'lar
 + Read Copy Update Mekanizması
 + Read/Write Semaphore Nesneleri
@@ -70,26 +70,26 @@
 + Thread'lerin Bloke Olması
 + Bekleme Kuyruklarının Genel Yapısı
 + Bekleme Kuyruklarının Yaratılması
-+ Bekleme Kuyruklarına Thread'lerin yerleştirilmesi ve Geri Alınması
++ Bekleme Kuyruklarına Thread'lerin yerleştirilmesi ve Oradan Geri Alınması
 + Linux Çekirdeklerinde Bekleme Kuyrukları İle İşlem Yapan Çekirdek Kodlarının İncelenmesi
 
 ## Linux Çekirdeğinin Dosya Sistemi 
 + Sanal Dosya Sistemi (Virtual File System) Kavramı
 + Dosya Sistemine İlişkin Veri Yapıları
 + Proseslerin Dosya Betimleyici Tabloları
-+ file Yapısı ve Dosya Nesneleri
++ Dosya Nesneleri ve file Yapısının İncelenmesi
 + inode Yapısı ve inode Nesneleri
 + dentry Yapısı ve dentry Nesneleri
 + Süper Blok Nesneleri
 + INode Cache Sistemi
 + Dentry Cache Sistemi
-+ Dosya Sistemi Türleri
-+ Dosya Sistemlerinin Register Ettrilmesi
++ Dosya Sistemi Türleri 
++ Dosya Sistemlerinin Register Ettirilmesi
 + İsim Alanları (Namespaces)
 + Dosya Sistemlerinin Mount Edilmesi
 + Kök Dosya Sisteminin Mount Edilmesi
-+ Geçici Kök Dosya Sistemleri
-+ Dosya Sistemlrinin Unmount Edilmesi
++ Geçici Kök Dosya Sistemleri ve Gerçek Dosya Sistemine Geçiş
++ Dosya Sistemlerinin Unmount Edilmesi
 + Yol İfadelerinin Çözümlenmesi (Pathname Resolution)
 + Sembolik Bağlantı Dosyalarının İzlenmesi
 + Dosya Sistemine İlişkin Sistem Fonksiyonlarının Gerçekleştirimi
