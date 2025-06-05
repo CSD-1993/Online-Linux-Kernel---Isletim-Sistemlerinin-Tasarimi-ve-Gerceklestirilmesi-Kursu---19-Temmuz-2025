@@ -30,9 +30,9 @@ Tabi ki.
 
 + Katıldığınız her dersi mutlaka tekrar etmelisiniz. Ders dışında kodlamaya mutlaka zaman ayırmalısınız. Derste yazılan kodları gözden geçirmeli, onları kendiniz de yazmaya çalışmalısınız.
 
-+ Verilen ödevleri yapmaya çalışmalısınız.
++ Verilen çalışma sorularını (ödevleri) yapmaya çalışmalısınız.
 
-+ Anlamadığınız noktaları eğitmene sormalısınız.
++ Anlamadığınız noktaları eğitmene sormalısınız. Anlamama hakkınızı sonuna kadar kullanmaya çalışmalısınız.
 
 ### Dersleri kayıt edebilir miyim?
 Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebilirsiniz. Derslerin izin alınmadan başkalarıyla paylaşılması, İnternet ortamında yayınlanması hukuki ve ticari yaptırımlara tabidir.
