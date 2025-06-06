@@ -13,7 +13,7 @@ Yapay zeka alanının 2017 yılından itibaren "dönştürücülerin (transforme
 ### Bilgisayar Mühendisliğinde okurken "işletim sistemleri" isminde bir ders almıştım. Burada anlatılacak olanlar benim aldığım derstekine benzer şeyler mi?
 Bilgisayar ve Yazılım mühendisliği bölümlerinde "işletim sistemleri" isminde okul dersleri bulunabilmektedir. Ancak bu derslerde işletim sistemleri hakkında yüzeysel ve genel bilgiler verilmektedr. Bu dersler çoğu zaman (ama her zaman değil) bu konuda özel uzmanlığı bulunmayan ve uygulama becerisine sahip olmayan öğretim elemanları tarafından verilmektedir. Bu nedenle genellikle öğrencilerde önemli bir değişime yol açmamaktadır. Zaten okul dersleri için ayrılan sürede bir uzmanlık elde edilemeyeceği açıktır. 
 
-### Kursta biz de kod yazacak mıyız? Yoksa Tamamen teorik bir kurs mu bu?
+### Kursta biz de kod yazacak mıyız? Yoksa tamamen teorik bir kurs mu bu?
 Kursumuz Linux çekirdeğinin ve genel olarak işletim istsmelerinin tasarım ve yazımına ilişkin bilgiler veriyor. Ancak kursta pek çok kod da yazılıyor. (Bazen bazı kodları çekirdek kodlarıyla yer değiştiriyouruz. Bazen bazı çekirdek kodlarını değiştiriyoruz.) Yani kursumuz yalnızca teorik bilgi vermiyor aynı zamanda işletim sisemlerine yönelik kodlama becerisini kazandırmayı da hedefliyor.
 
 ### Kurs Programını online olarak takip etmem yani derslere fiziksel olarak katılmamam eğitimden alacağım verimi düşürür mü?
