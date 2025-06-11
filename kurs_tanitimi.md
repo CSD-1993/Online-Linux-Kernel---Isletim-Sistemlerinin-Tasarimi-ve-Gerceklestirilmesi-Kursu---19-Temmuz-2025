@@ -8,7 +8,7 @@
 
 ## Ön Koşul
 
-Bu kursumuza katılacak adatylar için ön koşullarımız şunlardır:
+Bu kursumuza katılacak adaylar için ön koşullarımız şunlardır:
   
 + C Programlama Dilini iyi bir biçimde biliyor olmak ve bu dili kullanarak uygulamaları çalışmalar yapmış olmak.
 + Veri yapıları ve Algoritmalar konusunda temel bilgilere sahip olmak.
