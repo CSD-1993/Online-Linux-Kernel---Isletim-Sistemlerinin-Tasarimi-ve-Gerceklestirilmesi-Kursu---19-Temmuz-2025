@@ -16,13 +16,12 @@
 + Intel ve ARM Sembolik Makine Dilleri (Assembly Languages) Hakkında Temel Bilgiler
 + GCC Derleyicilerinin Linux Çekirdek Kodlarını İlgilendiren Eklentileri
 + Flat Binary Dosyaların Oluşturulması ve objcopy Programının Kullanımı
-+ Bağlayıcıların (Linkers) Kullanımı 
-+ İşlemcilerde Koruma Mekanizması
-+ Intel x86-x64 İşlemcilerinde Sayfalama Mekanizması
-+ ARM İşlemcilerinde Sayfalama Mekanizması
-+ Linux Çekirdek Kodlarına İlişkin Dizin Ağacı
-+ Çekirdek Kaynak Kodlarında Ne Nerededir?
-
++ Bağlayıcıların (Linkers) Çekirdek Geliştirmesinde Kullanımı 
++ İşlemcilerde Koruma Mekanizmasının Temel Özellikleri
++ Intel x86-x64 İşlemcilerinde Sayfalama Mekanizmasına İlişkin Temel Bilgiler
++ ARM İşlemcilerinde Sayfalama Mekanizmasına İlişkin Temel Bilgiler
++ Sanal Bellek Kullanımına İlişkin Temel Bilgiler
++ Linux Çekirdek Kodlarına İlişkin Dizin Ağacının Gözden Geçirilmesi
 ## Linux Sistemlerinin Boot Süreci 
 + Boot İşleminin Genel İşleyişi
 + Masaüstü Sistemlerde ve Gömülü Sistemlerde Boot Süreci
@@ -43,8 +42,8 @@
 + Bağlı Listeler ve Linux Çekirdeklerinde Bağlı Listelerin Gerçekleştirimi
 + Kuyruk Sistemleri ve Linux Çekirdeklerinde Kuyruk Sistemlerinin Gerçekleştirimi
 + Hash Tabloları ve Linux Çekirdeklerinde hash tablolarının Gerçekleştirimi
-+ İkili Arama Ağaçları, AVL ve Kırmızı-Siyah Dengelemesi ve Linux Çekirdeklerindeki Gerçekleştirimleri
-+ Cache Sistemlerinin Oluşturulması ve Linux Çekirdeklerinde LRU Tabanlı Cache Sistemlerinin Gerçekleştirimi
++ İkili Arama Ağaçları, AVL ve Kırmızı-Siyah Dengelemesi ve Bu Veri Yapılarının Linux Çekirdeklerindeki Gerçekleştirimleri
++ Cache Sistemlerinin Oluşturulması ve Linux Çekirdeklerinde LRU Tabanlı Cache Sistemlerinin Gerçekleştirimleri
   
 ## Proses Yönetimi
 + Proses Kavramı, Proseslere İlişkin Bilgiler, Proses Kontrol Bloğu
