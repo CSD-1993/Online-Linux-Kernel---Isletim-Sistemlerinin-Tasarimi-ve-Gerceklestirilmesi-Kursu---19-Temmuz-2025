@@ -64,7 +64,6 @@
 + exec Fonksiyonlarının Gerçekleştirimi
 + Linux Çekirdeğinde Prseslere İlişkin Sistem Fonksiyonlarının Gözden Geçirilmesi
 
-  
 ## Thread Yönetimi
 + Thread Kavramı ve Thread'lere Olan Gereksinim
 + Prosese ve Thread'e Özgü Bilgiler ve Veri Yapıları
@@ -188,6 +187,7 @@
   
 ## Dosya Sisteminde Okuma ve Yazma İşlemleri
 + Disk Tbanlı Dosyalardan (Blok Aygıtlarından) Okuma ve Yazma İşlemlerinin Ayrıntıları
++ seq_file Arayüzü
 + Bellek Tabanlı Dosyaların Organizasyonu
 + Asenkron IO İşlemleri
 
