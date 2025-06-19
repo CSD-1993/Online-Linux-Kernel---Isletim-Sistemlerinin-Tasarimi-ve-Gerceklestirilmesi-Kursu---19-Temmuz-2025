@@ -78,7 +78,7 @@
 + Atomik İşlemler
 + Bellek Bariyerleri
 + Spinlock Mekanizaması ve Spinlock Nesneleri
-+ Rad/Write Spinlock NEsneleri
++ Rad/Write Spinlock Nesneleri
 + Semaphore Nesneleri
 + Seqloc'lar
 + Read Copy Update Mekanizması
@@ -257,6 +257,13 @@
 + Ext Dosya Sistemine İlişkin Çekirdek Kodlarının Gözden Geçirilmesi
 + FAT Dosya Sisteminin Disk Organizasyonu
 + FAT Dosya Sistemine İlişkin Çekirdek Kodlarının Gözden Geçirilmesi
+
+## Çekirdeğin Ağ Arayüzü ve TCP/IP Stack Gerçekleştiriminin Temelleri
++ Ağ Arayüz Kartlarına Genel Bakış
++ Ağ Aygıtlarının Kullanıma Hazır Hale Getirilmesi 
++ Ağ Arayüzlerinden Veri Transferleri
++ IPV4 Gerçekleştiriminin Temelleri
++ IPV6 Gerçekleştiriminin Temelleri
 
 # Kursa Kayıt
 [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZUucuytrTopEtJEi5_RgJJMCHp7BrlLUtTf#/registration)
